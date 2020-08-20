@@ -1,4 +1,4 @@
-# [Madison](https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/111624863_10213686847244195_3675683081909935538_o.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_ohc=fl0YEDBWG5EAX_zxedU&_nc_ht=scontent.ftpa1-2.fna&oh=36582aa218b04476586c47328e297628&oe=5F6247DA)
+# ![Madison](https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/111624863_10213686847244195_3675683081909935538_o.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_ohc=fl0YEDBWG5EAX_zxedU&_nc_ht=scontent.ftpa1-2.fna&oh=36582aa218b04476586c47328e297628&oe=5F6247DA)
 
 ## Inclusive Technology Consultant in Advanced Analytics and Research Design
 
@@ -6,7 +6,8 @@ Madison is responsible for helping businesses manage their technology more effec
 
 ### My Portfolio [and My LinkedIn](https://linked.com/in/bymaisonross)
 
-[The Cheddar Podcast, Empowering Women in Tech](https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/297428/297428-1522355647290-6199a63be63ac.jpg)
+![The Cheddar Podcast, Empowering Women in Tech](https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/297428/297428-1522355647290-6199a63be63ac.jpg)
+[The Cheddar Podcast, Empowering Women in Tech](https://anchor.fm/the-cheddar)
 
 With a love for empowering others to tap into their creative and intentional self, Madison has published guided meditations and yoga classes, as well as facilitated STEAM and Design Thinking-focused workshops at Girls Who Code classrooms and for University of Florida students. She co-leads Protiviti's global D&I Book Club and co-hosts The Cheddar, a podcast series of 1K listens dedicated to empowering minorities in technology and business. Her mission is to cultivate an inclusive workplace culture by widening individual perspectives and establishing a support system to empower more minorities to pursue careers and leadership roles in technology. 
 
