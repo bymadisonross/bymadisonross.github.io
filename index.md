@@ -44,6 +44,14 @@ Developed and designed **the GreenThumb Initiative** in Adobe XD, an iOS prototy
 ![Hackathon Image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/699/017/datas/gallery.jpg) ![Hackathon Image 2](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/698/998/datas/gallery.jpg) ![Hackathon Image 3](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/698/997/datas/gallery.jpg)
 See my project [here](https://devpost.com/software/green-thumb-initiative-h0aeo4)
 
+### GatorTech President and VP of Technology
+
+GatorTech is the leading technology organization in the business college dedicated to teaching and facilitating discussion around technology's impact on society, while collaborating with the Information Systems (ISOM) department to start new projects and initiatives.
+
+• Directed the first technology-focused diversity event to promote a diverse workplace culture and provide opportunities for 40 students entering the technology field. Organized an internship panel, UF's Chief Diversity Officer as a guest speaker, and database distribution of internship and full-time positions looking for diverse candidates. Awarded "2019 Outstanding Program of the Year" by the Heavener School of Business.
+• Founded the ISOM’s technology case team to provide training and tools to six strategists, resulting in increased knowledge of case strategy and viable technological practices. Facilitated three practice cases covering information security and privacy, agile methodology, and IT infrastructure to send three strategists to CoMIS 2018, placing second in divisions.
+• Facilitated weekly workshops for a membership of 30 on topics such as cybersecurity, web development, user experience, blockchain, and data analytics. Targeted leading technology and associated career opportunities, such as "Day in the Life of a Data Analyst" to allow students to explore potential career paths while gaining technical knowledge to showcase to recruiters.
+
 ```markdown
 Design thinking image
 ```
