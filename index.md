@@ -14,8 +14,7 @@ View my [LinkedIn](https://linked.com/in/bymadisonross).
 
 ![Book Club Image](https://i1.wp.com/protiviticareer.com/wp-content/uploads/2020/08/1.jpg?resize=1536%2C698&ssl=1)
 
-- Prepare bi-weekly discussion questions and activities to spark courageous conversation on challenging topics for 35+ offices.
-- Developed a Summer Series consisting of three sessions to discuss D&I topics with bite-sized media such as TED Talks, articles, and podcasts.
+Prepared bi-weekly discussion questions and activities on one book per quarter to spark courageous conversation for 35+ offices. Additionally, developed a Summer Series consisting of three sessions to discuss D&I topics with bite-sized media such as TED Talks, articles, and podcasts.
 
 **Published Media:**
 - Read how we developed the D&I Book Club, [The "Why" and "How" of D&I in the Workplace](https://www.linkedin.com/in/bymadisonross/detail/treasury/position:1633983392/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABqLla8BXQ07EdfM8wpnh_gfOq34txTRN_A%2C1592499924692)&section=position%3A1633983392&treasuryCount=2)
@@ -96,11 +95,6 @@ Design thinking image
 Captured insights from 300+ participants via two design thinking sessions to drive global D&I strategy. Utilized LUMA recipes and MURAL boards to complete design thinking activities and address the prompt, "How might we establish Protiviti as a D&I Thought Leader?" Read this article on how we did it!
 
 
-- Bulleted
-- List
-1. Numbered
-2. List
-**Bold** and _Italic_ and `Code` text
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+**Bold** and _Italic_ and `Code` text. For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
