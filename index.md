@@ -39,8 +39,7 @@ Madison has experience with data cleansing and analysis in Alteryx (Designer Cor
 ### Competed at the Georgia Institute of Technology's hackathon and received 2nd place in User Experience Design
 Hackathons are events where innovators such as programmers, designers, and project managers collaborate to prototype new ideas, applications, and unique solutions from scratch; demoing their work to a team of judges.
 
-- Placed second in User Experience at the Georgia Institute of Technology hackathon (HackGT) for the development of an iOS application prototype, the GreenThumb Initiative; Users scan their house plant via augmented reality to view a brief plant history, optimal growth conditions, and measure plant health with bluetooth-connected sensors.
-- Designed 5 user interfaces in Adobe XD CC and two illustrations with Adobe Illustrator.
+Developed and designed **the GreenThumb Initiative** in Adobe XD, an iOS prototype where users scan their house plant via augmented reality to view a brief plant history, optimal growth conditions, and measure plant health with bluetooth-connected sensors.
 
 ![Hackathon Image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/699/017/datas/gallery.jpg) ![Hackathon Image 2](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/698/998/datas/gallery.jpg) ![Hackathon Image 3](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/698/997/datas/gallery.jpg)
 See my project [here](https://devpost.com/software/green-thumb-initiative-h0aeo4)
