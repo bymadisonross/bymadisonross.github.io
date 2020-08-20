@@ -59,8 +59,11 @@ Collection of favorite books.
 
 Protiviti's Advanced Analytics Development Team is a collaborative effort across a core team of developers, data administrators, and analysts to utilize low-code/no-code advanced analytics and machine learning techniques for the increased efficiency of clients and internal auditors.
 
-![Alteryx](https://pvsmt99345.i.lithium.com/t5/image/serverpage/image-id/19501i24CE0B6DEEDA346B/image-size/large?v=1.0&px=999)
-Developed workflows displaying use cases of advanced analytics and machine learning techniques in Internal Audit (IA) via Alteryx, Power BI, and Power Automate for the deployment of a global IA Data Analytics training program. Automated standard Payment, Payroll, General Ledger, and ITGC Controls utilizing data from SQL Management Studio and Excel. Created and demoed text mining and optical character recognition (OCR) workflows in Alteryx to process unstandardized invoice data.
+![Alteryx](https://sway.office.com/s/sw9vIUBi4Iinzvio/images/pJz_fVnMshZcWn?quality=1045&allowAnimation=true&filterEffectsFormula=Contrast=1.3,Saturate=1.2)
+Developed workflows displaying use cases of advanced analytics and machine learning techniques in Internal Audit (IA) via Alteryx, Power BI, and Power Automate for the deployment of a global IA Data Analytics training program.
+
+![Sway Image](https://sway.office.com/s/sw9vIUBi4Iinzvio/images/pJz_fVnMshZcWn?quality=1045&allowAnimation=true&filterEffectsFormula=Contrast=1.3,Saturate=1.2)
+Automated standard Payment, Payroll, General Ledger, and ITGC Controls utilizing data from SQL Management Studio and Excel. Created and demoed text mining and optical character recognition (OCR) workflows in Alteryx to process unstandardized invoice data.
 
 ![Presentation AI](https://media-exp1.licdn.com/dms/image/sync/C4D27AQE5VzhqGGor-Q/articleshare-shrink_1280_800/0?e=1598036400&v=beta&t=c-1PNOJSUVdrP_uqbWwwZl8cXQkkDW6ZtBe2rjIfUIM)
 Presented workshops on the role of audit in ethical artificial intelligence (AI) to 50 colleagues, which you can find [here](https://docs.google.com/presentation/d/1ArW1P1rR7WWz0gzybgv-Yz3Lb4EA_eS0PW5xMBNOvbE/edit?usp=sharing). Assisted in the development of an audit methodology for ethical AI.
