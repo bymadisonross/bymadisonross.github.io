@@ -61,7 +61,7 @@ Protiviti's Advanced Analytics Development Team is a collaborative effort across
 ![Alteryx](https://sway.office.com/s/sw9vIUBi4Iinzvio/images/pJz_fVnMshZcWn?quality=1045&allowAnimation=true&filterEffectsFormula=Contrast=1.3,Saturate=1.2)
 Developed workflows displaying use cases of advanced analytics and machine learning techniques in Internal Audit (IA) via Alteryx, Power BI, and Power Automate for the deployment of a global IA Data Analytics training program.
 
-![Sway Image](https://sway.office.com/s/sw9vIUBi4Iinzvio/images/pJz_fVnMshZcWn?quality=1045&allowAnimation=true&filterEffectsFormula=Contrast=1.3,Saturate=1.2)
+![Sway Image](https://sway.office.com/s/sw9vIUBi4Iinzvio/images/pWtQsC4NOMrlcK?quality=1102&allowAnimation=true&filterEffectsFormula=Contrast=1.3,Saturate=1.2)
 Automated standard Payment, Payroll, General Ledger, and ITGC Controls utilizing data from SQL Management Studio and Excel. Created and demoed text mining and optical character recognition (OCR) workflows in Alteryx to process unstandardized invoice data.
 
 ![Presentation AI](https://media-exp1.licdn.com/dms/image/sync/C4D27AQE5VzhqGGor-Q/articleshare-shrink_1280_800/0?e=1598036400&v=beta&t=c-1PNOJSUVdrP_uqbWwwZl8cXQkkDW6ZtBe2rjIfUIM)
@@ -69,7 +69,7 @@ Presented workshops on the role of audit in ethical artificial intelligence (AI)
 
 ### Data Visualization in Project Work
 
-![Example dashboard](https://powerbicdn.azureedge.net/mediahandler/blog/legacymedia/1145.dashboard.PNG)
+![Example dashboard](https://sway.office.com/s/sw9vIUBi4Iinzvio/images/_MDIj5vYk9vMEk?quality=1318&allowAnimation=true&filterEffectsFormula=Contrast=1.3,Saturate=1.2)
 Implemented data protection programs based on current state analysis, using best practices in data governance. Analyzed scan results and created data models and dashboards displaying key findings surrounding sensitive data in the environment. Interviewed Data Owners and configured security tools around existing business processes to classify and manage the organization’s sensitive data and mitigate risk from disruptive financial, operational, and security-related events.
 
 ### Prototyped user interfaces at the Georgia Institute of Technology's hackathon and received 2nd place in User Experience Design
