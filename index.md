@@ -36,10 +36,10 @@ Madison holds a BSBA in Information Systems from the University of Florida with 
 
 Madison has experience with data cleansing and analysis in Alteryx (Designer Core certified), visualizing data in MS Power BI, building machine learning models in Python (Jupyter Notebooks), querying databases in SQL, planning Design Thinking sessions via LUMA recipes and MURAL boards, and prototyping user interfaces using HTML/CSS and Adobe Suite.
 
-![Alteryx](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommunity.alteryx.com%2Ft5%2FCertification%2Fbd-p%2Fproduct-certification&psig=AOvVaw1gAhu3HilsQiEM2IodDG8j&ust=1598021075586000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDmmdCCqusCFQAAAAAdAAAAABAE)
-![PowerBI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fpower-bi&psig=AOvVaw1wxo8Xawg7v5QEcQYBqMMN&ust=1598021160041000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCmpvKCqusCFQAAAAAdAAAAABAD)
+![UF Grad Image](https://media-exp1.licdn.com/dms/image/C4E12AQESHWqfge97bA/article-cover_image-shrink_720_1280/0?e=1603324800&v=beta&t=iGGwku_iiiyxASWOm0kbn-7bJYTL3xQ1xRXZ3jNiaUA)
+Read about my commitment to [Driving Careers in Tech Forward at the University of Florida](https://www.linkedin.com/pulse/my-legacy-university-florida-madison-c-ross/) 
 
-### Competed at the Georgia Institute of Technology's hackathon and received 2nd place in User Experience Design
+### Prototyped user interfaces at the Georgia Institute of Technology's hackathon and received 2nd place in User Experience Design
 Hackathons are events where innovators such as programmers, designers, and project managers collaborate to prototype new ideas, applications, and unique solutions from scratch; demoing their work to a team of judges.
 
 Developed and designed **the GreenThumb Initiative** in Adobe XD, an iOS prototype where users scan their house plant via augmented reality to view a brief plant history, optimal growth conditions, and measure plant health with bluetooth-connected sensors.
@@ -58,7 +58,6 @@ GatorTech is the leading technology organization in the business college dedicat
 ```markdown
 Design thinking image
 ```
-
 
 - Bulleted
 - List
