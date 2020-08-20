@@ -1,4 +1,4 @@
-# ![Madison](https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/111624863_10213686847244195_3675683081909935538_o.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_ohc=fl0YEDBWG5EAX_zxedU&_nc_ht=scontent.ftpa1-2.fna&oh=36582aa218b04476586c47328e297628&oe=5F6247DA)
+# ![Madison](https://media-exp1.licdn.com/dms/image/C4D03AQH_8L0xbIV7JA/profile-displayphoto-shrink_400_400/0?e=1603324800&v=beta&t=vnxrgk6Z29lIsh2x8NHfng1CaKgwHodH4mg8j22wWAw)
 
 ## Inclusive Technology Consultant in Advanced Analytics and Research Design
 
