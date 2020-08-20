@@ -96,9 +96,8 @@ See my project [here](https://devpost.com/software/green-thumb-initiative-h0aeo4
 
 ### Design Thinking Advocate
 
-```markdown
-Design thinking image
-```
+![Design Thinking Methodology](https://media-exp1.licdn.com/dms/image/C5612AQHfdnyD58ueLw/article-inline_image-shrink_1000_1488/0?e=1603324800&v=beta&t=3Io3fkbpy03PB9foEK6d8a3y2Nln1s2uhZFBMY9qFrg)
+
 Captured insights from 300+ participants via two design thinking sessions to drive global D&I strategy. Utilized LUMA recipes and MURAL boards to complete design thinking activities and address the prompt, "How might we establish Protiviti as a D&I Thought Leader?" Read this article on how we did it!
 
 
