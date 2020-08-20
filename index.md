@@ -1,9 +1,10 @@
-# [My LinkedIn](https://linked.com/in/bymaisonross) and ![Madison](https://www.facebook.com/photo?fbid=10213686847204194&set=a.1257431734648)
+# [Madison](https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/111624863_10213686847244195_3675683081909935538_o.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_ohc=fl0YEDBWG5EAX_zxedU&_nc_ht=scontent.ftpa1-2.fna&oh=36582aa218b04476586c47328e297628&oe=5F6247DA)
+
 ## Inclusive Technology Consultant in Advanced Analytics and Research Design
 
-Madison is a Technology Consultant at Protiviti's Orlando office. She's responsible for helping businesses manage their technology more effectively and securely while taking a data-driven approach to solving their toughest challenges. Madison’s work is guided by a strong belief in the power of experimentation and behavioral analysis to revolutionize strategic initiatives. She’s passionate about streamlining processes utilizing advanced analytics and machine learning techniques, discovering and reducing bias in algorithms (ethical AI), and humanizing technology for the accessibility of society's most vulnerable.
+Madison is responsible for helping businesses manage their technology more effectively and securely while taking a data-driven approach to solving their toughest challenges. Her work is guided by a strong belief in the power of experimentation and behavioral analysis to revolutionize strategic initiatives. She’s passionate about streamlining processes utilizing advanced analytics and machine learning techniques, discovering and reducing bias in algorithms (ethical AI), and humanizing technology for the accessibility of society's most vulnerable.
 
-### My Portfolio
+### My Portfolio [and My LinkedIn](https://linked.com/in/bymaisonross)
 
 [The Cheddar Podcast, Empowering Women in Tech](https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/297428/297428-1522355647290-6199a63be63ac.jpg)
 
