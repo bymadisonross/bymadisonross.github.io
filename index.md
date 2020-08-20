@@ -74,7 +74,7 @@ Presented workshops on the role of audit in ethical artificial intelligence (AI)
 
 ### Data Visualization in Project Work
 
-![Example dashboard](https://sway.office.com/s/sw9vIUBi4Iinzvio/images/_MDIj5vYk9vMEk?quality=1318&allowAnimation=true&filterEffectsFormula=Contrast=1.3,Saturate=1.2)
+<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ee652222-2f90-4d82-938e-df1a23a9b90b&autoAuth=true&ctid=16532572-d567-4d67-8727-f12f7bb6aed3&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 Implemented data protection programs based on current state analysis, using best practices in data governance. Analyzed scan results and created data models and dashboards displaying key findings surrounding sensitive data in the environment. Interviewed Data Owners and configured security tools around existing business processes to classify and manage the organization’s sensitive data and mitigate risk from disruptive financial, operational, and security-related events.
 
