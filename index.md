@@ -1,3 +1,4 @@
+# [My LinkedIn](https://linked.com/in/bymaisonross) and ![Image](https://www.facebook.com/photo?fbid=10213686847204194&set=a.1257431734648)
 ## Inclusive Technology Consultant in Advanced Analytics and Research Design
 
 Madison is a Technology Consultant at Protiviti's Orlando office. She's responsible for helping businesses manage their technology more effectively and securely while taking a data-driven approach to solving their toughest challenges. Madison’s work is guided by a strong belief in the power of experimentation and behavioral analysis to revolutionize strategic initiatives. She’s passionate about streamlining processes utilizing advanced analytics and machine learning techniques, discovering and reducing bias in algorithms (ethical AI), and humanizing technology for the accessibility of society's most vulnerable.
