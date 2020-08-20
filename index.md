@@ -1,9 +1,11 @@
-# [My LinkedIn](https://linked.com/in/bymaisonross) and ![Image](https://www.facebook.com/photo?fbid=10213686847204194&set=a.1257431734648)
+# [My LinkedIn](https://linked.com/in/bymaisonross) and ![Madison](https://www.facebook.com/photo?fbid=10213686847204194&set=a.1257431734648)
 ## Inclusive Technology Consultant in Advanced Analytics and Research Design
 
 Madison is a Technology Consultant at Protiviti's Orlando office. She's responsible for helping businesses manage their technology more effectively and securely while taking a data-driven approach to solving their toughest challenges. Madison’s work is guided by a strong belief in the power of experimentation and behavioral analysis to revolutionize strategic initiatives. She’s passionate about streamlining processes utilizing advanced analytics and machine learning techniques, discovering and reducing bias in algorithms (ethical AI), and humanizing technology for the accessibility of society's most vulnerable.
 
 ### My Portfolio
+
+[The Cheddar Podcast, Empowering Women in Tech](https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/297428/297428-1522355647290-6199a63be63ac.jpg)
 
 With a love for empowering others to tap into their creative and intentional self, Madison has published guided meditations and yoga classes, as well as facilitated STEAM and Design Thinking-focused workshops at Girls Who Code classrooms and for University of Florida students. She co-leads Protiviti's global D&I Book Club and co-hosts The Cheddar, a podcast series of 1K listens dedicated to empowering minorities in technology and business. Her mission is to cultivate an inclusive workplace culture by widening individual perspectives and establishing a support system to empower more minorities to pursue careers and leadership roles in technology. 
 
