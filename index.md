@@ -2,7 +2,11 @@
 
 # Inclusive Technology Consultant in Advanced Analytics and Research Design
 
-Madison is responsible for helping businesses manage their technology more effectively and securely while taking a data-driven approach to solving their toughest challenges. Her work is guided by a strong belief in the power of experimentation and behavioral analysis to revolutionize strategic initiatives. She’s passionate about streamlining processes utilizing advanced analytics and machine learning techniques, discovering and reducing bias in algorithms (ethical AI), and humanizing technology for the accessibility of society's most vulnerable. Her mission is to cultivate an inclusive workplace culture by widening individual perspectives and establishing a support system to empower more minorities to pursue careers and leadership roles in technology. View her [LinkedIn](https://linked.com/in/bymadisonross).
+Madison is responsible for helping businesses manage their technology more effectively and securely while taking a data-driven approach to solving their toughest challenges. Her work is guided by a strong belief in the power of experimentation and behavioral analysis to revolutionize strategic initiatives. 
+
+She’s passionate about streamlining processes utilizing advanced analytics and machine learning techniques, discovering and reducing bias in algorithms, and humanizing technology for the accessibility of society's most vulnerable. Her mission is to cultivate an inclusive workplace culture by widening individual perspectives and establishing a support system to empower more minorities to pursue careers and leadership roles in technology. 
+
+View my [LinkedIn](https://linked.com/in/bymadisonross).
 
 ## My Commitment to Diversity and Inclusion (D&I)
 
@@ -10,9 +14,13 @@ Madison is responsible for helping businesses manage their technology more effec
 
 ![Book Club Image](https://i1.wp.com/protiviticareer.com/wp-content/uploads/2020/08/1.jpg?resize=1536%2C698&ssl=1)
 
-Prepare bi-weekly discussion questions and activities to spark courageous conversation on challenging topics for 35+ offices. Developed a Summer Series consisting of three sessions to discuss D&I topics with bite-sized media such as TED Talks, articles, and podcasts. Read this article on developing the D&I Book Club, [The "Why" and "How" of D&I in the Workplace](https://www.linkedin.com/in/bymadisonross/detail/treasury/position:1633983392/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABqLla8BXQ07EdfM8wpnh_gfOq34txTRN_A%2C1592499924692)&section=position%3A1633983392&treasuryCount=2) and read this externally published article on [curating our Summer Series](https://protiviticareer.com/2020/08/18/protiviti-diversity-inclusion-book-club-promotes-important-conversation/).
+- Prepare bi-weekly discussion questions and activities to spark courageous conversation on challenging topics for 35+ offices.
+- Developed a Summer Series consisting of three sessions to discuss D&I topics with bite-sized media such as TED Talks, articles, and podcasts.
 
-Captured insights from 300+ participants via two design thinking sessions to drive global D&I strategy. Utilized LUMA recipes and MURAL boards to complete design thinking activities and address the prompt, "How might we establish Protiviti as a D&I Thought Leader?"
+**Published Media:**
+- Read how we developed the D&I Book Club, [The "Why" and "How" of D&I in the Workplace](https://www.linkedin.com/in/bymadisonross/detail/treasury/position:1633983392/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABqLla8BXQ07EdfM8wpnh_gfOq34txTRN_A%2C1592499924692)&section=position%3A1633983392&treasuryCount=2)
+- Read how to apply Design Thinking to D&I to Enable Your People
+- Read this externally published article on [curating our Summer Series](https://protiviticareer.com/2020/08/18/protiviti-diversity-inclusion-book-club-promotes-important-conversation/).
 
 ### Co-Host of The Cheddar, a podcast series of 1K listens dedicated to empowering minorities in technology and business.
 
@@ -82,14 +90,7 @@ See my project [here](https://devpost.com/software/green-thumb-initiative-h0aeo4
 ```markdown
 Design thinking image
 ```
-
-### Designed Protiviti's D&I Book Club newsletter
-
-Designed Protiviti's D&I Book Club newsletter.
- Link/embedded video/image here.
-D&I Digest video scroll through here.
-
-Designed Protiviti's global D&I newsletter, _The D&I Digest_, streamlining quarterly highlights and opportunities to get involved in the D&I space either as an ally or with various employee netowrk groups.
+Captured insights from 300+ participants via two design thinking sessions to drive global D&I strategy. Utilized LUMA recipes and MURAL boards to complete design thinking activities and address the prompt, "How might we establish Protiviti as a D&I Thought Leader?" Read this article on how we did it!
 
 
 - Bulleted
