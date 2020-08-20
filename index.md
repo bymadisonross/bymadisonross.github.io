@@ -36,6 +36,9 @@ Madison holds a BSBA in Information Systems from the University of Florida with 
 
 Madison has experience with data cleansing and analysis in Alteryx (Designer Core certified), visualizing data in MS Power BI, building machine learning models in Python (Jupyter Notebooks), querying databases in SQL, planning Design Thinking sessions via LUMA recipes and MURAL boards, and prototyping user interfaces using HTML/CSS and Adobe Suite.
 
+![Alteryx](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommunity.alteryx.com%2Ft5%2FCertification%2Fbd-p%2Fproduct-certification&psig=AOvVaw1gAhu3HilsQiEM2IodDG8j&ust=1598021075586000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDmmdCCqusCFQAAAAAdAAAAABAE)
+![PowerBI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fpower-bi&psig=AOvVaw1wxo8Xawg7v5QEcQYBqMMN&ust=1598021160041000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCmpvKCqusCFQAAAAAdAAAAABAD)
+
 ### Competed at the Georgia Institute of Technology's hackathon and received 2nd place in User Experience Design
 Hackathons are events where innovators such as programmers, designers, and project managers collaborate to prototype new ideas, applications, and unique solutions from scratch; demoing their work to a team of judges.
 
