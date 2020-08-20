@@ -2,7 +2,7 @@
 
 # Inclusive Technology Consultant in Advanced Analytics and Research Design
 
-Madison is responsible for helping businesses manage their technology more effectively and securely while taking a data-driven approach to solving their toughest challenges. Her work is guided by a strong belief in the power of experimentation and behavioral analysis to revolutionize strategic initiatives. She’s passionate about streamlining processes utilizing advanced analytics and machine learning techniques, discovering and reducing bias in algorithms (ethical AI), and humanizing technology for the accessibility of society's most vulnerable.
+Madison is responsible for helping businesses manage their technology more effectively and securely while taking a data-driven approach to solving their toughest challenges. Her work is guided by a strong belief in the power of experimentation and behavioral analysis to revolutionize strategic initiatives. She’s passionate about streamlining processes utilizing advanced analytics and machine learning techniques, discovering and reducing bias in algorithms (ethical AI), and humanizing technology for the accessibility of society's most vulnerable. Her mission is to cultivate an inclusive workplace culture by widening individual perspectives and establishing a support system to empower more minorities to pursue careers and leadership roles in technology.
 
 ## My Portfolio [and My LinkedIn](https://linked.com/in/bymaisonross)
 
@@ -18,18 +18,31 @@ Madison is responsible for helping businesses manage their technology more effec
 ![Article Image](https://media-exp1.licdn.com/dms/image/sync/C4D12AQHr8YGLT7pjNw/article-cover_image-shrink_600_2000/0?e=1603324800&v=beta&t=Me5w0HXisqtm2Ce5CvflcReHwIp7HOin8BcJ_Jq7ZWc)
 Read this article on [The "Why" and "How" of D&I in the Workplace](https://www.linkedin.com/in/bymadisonross/detail/treasury/position:1633983392/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABqLla8BXQ07EdfM8wpnh_gfOq34txTRN_A%2C1592499924692)&section=position%3A1633983392&treasuryCount=2)
 
-### She co-hosts The Cheddar, a podcast series of 1K listens dedicated to empowering minorities in technology and business. Her mission is to cultivate an inclusive workplace culture by widening individual perspectives and establishing a support system to empower more minorities to pursue careers and leadership roles in technology.
+### She co-hosts The Cheddar, a podcast series dedicated to empowering minorities in technology and business.
+
+The Cheddar is a podcast series of 1K listens dedicated to empowering minorities in technology and business. Listeners can gain insight from conducted interviews, the host’s personal experiences, and researched topics related to women's rights and workplace culture.
+
+- Created 15 podcast episodes to recognize and empower women in various industries, with a focus on the technology industry, to bring awareness to workplace biases and strategies for a successful career.
+- Led a finance workshop for 30 at the UF Women's Student Association's 'Investing in Your Future' event, discussing the importance of budgeting, investing, and job offer negotiation.
+- Chosen as one of 16 for the launch of ‘College Content Creators’ website, establishing a community of 500 women and student-leaders striving to impact the community.
 
 ![The Cheddar Podcast Image](https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/297428/297428-1522355647290-6199a63be63ac.jpg)
 [The Cheddar Podcast, Empowering Women in Tech](https://anchor.fm/the-cheddar)
 
 ## Education
 
-Madison holds a BSBA in Information Systems from the University of Florida with a minor in Economics. Her success is deeply rooted in her faith, driving her to seek out opportunities to develop strong technical, interpersonal, and leadership skills while investing in others. Madison has experience with data cleansing and analysis in Alteryx (Designer Core certified), visualizing data in MS Power BI, building machine learning models in Python (Jupyter Notebooks), querying databases in SQL, planning Design Thinking sessions via LUMA recipes and MURAL boards, and prototyping user interfaces using HTML/CSS and Adobe Suite.
+Madison holds a BSBA in Information Systems from the University of Florida with a minor in Economics. Her success is deeply rooted in her faith, driving her to seek out opportunities to develop strong technical, interpersonal, and leadership skills while investing in others.
 
-```markdown
-Add hackathon project
-```
+Madison has experience with data cleansing and analysis in Alteryx (Designer Core certified), visualizing data in MS Power BI, building machine learning models in Python (Jupyter Notebooks), querying databases in SQL, planning Design Thinking sessions via LUMA recipes and MURAL boards, and prototyping user interfaces using HTML/CSS and Adobe Suite.
+
+### Competed at the Georgia Institute of Technology's hackathon and received 2nd place in User Experience Design
+Hackathons are events where innovators such as programmers, designers, and project managers collaborate to prototype new ideas, applications, and unique solutions from scratch; demoing their work to a team of judges.
+
+- Placed second in User Experience at the Georgia Institute of Technology hackathon (HackGT) for the development of an iOS application prototype, the GreenThumb Initiative; Users scan their house plant via augmented reality to view a brief plant history, optimal growth conditions, and measure plant health with bluetooth-connected sensors.
+- Designed 5 user interfaces in Adobe XD CC and two illustrations with Adobe Illustrator.
+
+![Hackathon Image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/699/017/datas/gallery.jpg)
+See my project [here](https://devpost.com/software/green-thumb-initiative-h0aeo4)
 
 ```markdown
 Design thinking image
