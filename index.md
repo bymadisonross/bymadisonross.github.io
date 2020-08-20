@@ -27,6 +27,7 @@ The Cheddar is a podcast series of 1K listens dedicated to empowering minorities
 - Chosen as one of 16 for the launch of ‘College Content Creators’ website, establishing a community of 500 women and student-leaders striving to impact the community.
 
 ![The Cheddar Podcast Image](https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/297428/297428-1522355647290-6199a63be63ac.jpg)
+
 Listen to [The Cheddar Podcast, Empowering 1K Women in Tech](https://anchor.fm/the-cheddar)
 
 ## Education
