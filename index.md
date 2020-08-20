@@ -8,25 +8,17 @@ Madison is responsible for helping businesses manage their technology more effec
 
 ### Co-Director of Protiviti's global Diversity and Inclusion (D&I) Book Club, which strives to fosters an inclusive environment in which employees and allies can collaboratively share their experiences while widening perspectives on D&I topics.
 
-- Strategize D&I initiatives with a focus on the pipeline and retention of minorities in technology through the development of thought leadership, D&I metrics, and informational workshops.
-- Prepare bi-weekly discussion questions and activities to spark courageous conversation on challenging topics for 35+ offices. Developed a "Summer Series: Fighting for Equality" consisting of three sessions to discuss D&I topics with bite-sized media such as TED Talks, articles, and podcasts.
-- Captured insights from 300+ participants via two design thinking sessions to drive global D&I strategy. Utilized LUMA recipes and MURAL boards to complete design thinking activities and address the prompt, "How might we establish Protiviti as a D&I Thought Leader?"
-- Collaborated with employee network group leads to produce Protiviti's global D&I newsletter, streamlining quarterly highlights and opportunities to get involved in the D&I space.
+![Book Club Image](https://i1.wp.com/protiviticareer.com/wp-content/uploads/2020/08/1.jpg?resize=1536%2C698&ssl=1)
 
-![Article Image](https://media-exp1.licdn.com/dms/image/sync/C4D12AQHr8YGLT7pjNw/article-cover_image-shrink_600_2000/0?e=1603324800&v=beta&t=Me5w0HXisqtm2Ce5CvflcReHwIp7HOin8BcJ_Jq7ZWc)
-Read this article on [The "Why" and "How" of D&I in the Workplace](https://www.linkedin.com/in/bymadisonross/detail/treasury/position:1633983392/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABqLla8BXQ07EdfM8wpnh_gfOq34txTRN_A%2C1592499924692)&section=position%3A1633983392&treasuryCount=2)
+Prepare bi-weekly discussion questions and activities to spark courageous conversation on challenging topics for 35+ offices. Developed a Summer Series consisting of three sessions to discuss D&I topics with bite-sized media such as TED Talks, articles, and podcasts. Read this article on developing the D&I Book Club, [The "Why" and "How" of D&I in the Workplace](https://www.linkedin.com/in/bymadisonross/detail/treasury/position:1633983392/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABqLla8BXQ07EdfM8wpnh_gfOq34txTRN_A%2C1592499924692)&section=position%3A1633983392&treasuryCount=2) and read this externally published article on [curating our Summer Series](https://protiviticareer.com/2020/08/18/protiviti-diversity-inclusion-book-club-promotes-important-conversation/).
 
-### Co-Host of The Cheddar, a podcast series dedicated to empowering minorities in technology and business.
+Captured insights from 300+ participants via two design thinking sessions to drive global D&I strategy. Utilized LUMA recipes and MURAL boards to complete design thinking activities and address the prompt, "How might we establish Protiviti as a D&I Thought Leader?"
 
-The Cheddar is a podcast series of 1K listens dedicated to empowering minorities in technology and business. Listeners can gain insight from conducted interviews, the host’s personal experiences, and researched topics related to women's rights and workplace culture.
-
-- Created 15 podcast episodes to recognize and empower women in various industries, with a focus on the technology industry, to bring awareness to workplace biases and strategies for a successful career.
-- Led a finance workshop for 30 at the UF Women's Student Association's 'Investing in Your Future' event, discussing the importance of budgeting, investing, and job offer negotiation.
-- Chosen as one of 16 for the launch of ‘College Content Creators’ website, establishing a community of 500 women and student-leaders striving to impact the community.
+### Co-Host of The Cheddar, a podcast series of 1K listens dedicated to empowering minorities in technology and business.
 
 ![The Cheddar Podcast Image](https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/297428/297428-1522355647290-6199a63be63ac.jpg)
 
-Listen to [The Cheddar Podcast, Empowering 1K Women in Tech](https://anchor.fm/the-cheddar)
+Created 15 podcast episodes to recognize and empower women in various industries, with a focus on the technology industry, to bring awareness to workplace biases and strategies for a successful career. Listeners can gain insight from conducted interviews, the hosts' personal experiences, and researched topics related to women's rights and workplace culture. Listen to [The Cheddar Podcast, Empowering 1K Women in Tech](https://anchor.fm/the-cheddar).
 
 ### Hosted a Diversity Event for 50 students at the University of Florida
 
@@ -64,6 +56,10 @@ See my project [here](https://devpost.com/software/green-thumb-initiative-h0aeo4
 ```markdown
 Design thinking image
 ```
+
+- Designed Protiviti's global D&I newsletter, _The D&I Digest_, streamlining quarterly highlights and opportunities to get involved in the D&I space either as an ally or with various employee netowrk groups.
+- Designed Protiviti's D&I Book Club newsletter.
+
 
 - Bulleted
 - List
