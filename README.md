@@ -1,3 +1,7 @@
+# Madison's updates
+
+I updated this website theme with content including multiple pages, carousels for pictures, videos, and more! 
+
 # Minimal Theme
 
 [Demo the Theme](http://orderedlist.github.com/minimal/)
