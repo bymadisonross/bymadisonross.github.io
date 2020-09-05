@@ -355,8 +355,8 @@ footer {
 }
 
 .mark {
-  background: rgb(254,138,250);
-  background: linear-gradient(90deg, rgba(254,138,250,0.22592787114845936) 24%, rgba(246,110,198,0.48363095238095233) 74%);
+  background: rgb(254,67,101);
+  background: linear-gradient(90deg, rgba(254,67,101, 0.5) 24%, rgba(246,114,128,0.48363095238095233) 74%);
   color: black;
 }
 
