@@ -1,7 +1,19 @@
-- name: Wireframing in Figma and Adobe Suite 
-  percentage: 90
-  color: dark
-
-- name: Design Thinking with MURAL and LUMA
-  percentage: 80
+- name: Visualization in Microsoft Power BI
+  percentage: 85
   color: blue
+
+- name: Excel (Advanced Certified)
+  percentage: 95
+  color: danger
+
+- name: Alteryx (Designer Core Certified)
+  percentage: 85
+  color: danger
+
+- name: Figma and Adobe Suite 
+  percentage: 90
+  color: green
+
+- name: Design Thinking
+  percentage: 80
+  color: yellow
