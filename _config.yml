@@ -24,13 +24,12 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Madison Ross
-  image             : headshot.png
+  image             : https://avatars2.githubusercontent.com/u/30260192?s=460&u=7e1f874e37a1bcc1c5c41c23962ee627453a0b7d&v=4
   dribbble          : bymadisonross
   email             : bymadisonross@gmail.com
   github            : bymadisonross
   linkedin          : bymadisonross
-  medium            : your_username
-  youtube           : bymadisonross
+  medium            : bymadisonross
 
 
 ### Posts ###
