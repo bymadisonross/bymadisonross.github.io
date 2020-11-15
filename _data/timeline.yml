@@ -1,17 +1,28 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Southeast Lead, Protiviti's Advanced Analytics Training and Development Program
+  from: 2020
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Protiviti's Advanced Analytics Development Team is a collaborative effort across a core team of developers, data administrators, and analysts to utilize low-code/no-code advanced analytics and machine learning techniques for the increased efficiency of clients and internal auditors.
+               I developed workflows displaying use cases of data analytics and machine learning via Alteryx and Power BI, automating standard Payment, Payroll, General Ledger, and ITGCs to increase efficiency of existing business processes by over 200% (projected). Created text mining and optical character recognition (OCR) workflows in Alteryx to process unstandardized invoice data.
+               As part of this program, I spearheaded an Advanced Analytics training program for consultants in the Southeast region using prescriptive/predictive analytics, increasing efficiency in data visualization via PowerBI, data analysis via Alteryx, and ethical artificial intelligence (AI).            
+
+- title: Co-Director, Protiviti's global Diversity and Inclusion (D&I) Book Club
+  from: 2020
+  to: present
+  description: Strives to fosters an inclusive environment in which employees and allies can collaboratively share their experiences while widening perspectives on D&I topics.</h3>
+               Prepared bi-weekly discussion questions and activities on one book per quarter to spark courageous conversation for 35+ offices. Additionally, developed a Summer Series consisting of three sessions to discuss D&I topics with bite-sized media such as TED Talks, articles, and podcasts.
+               I captured insights from 300+ participants via two design thinking sessions 
+               to drive global D&I strategy. Utilized LUMA recipes and MURAL boards to complete 
+               design thinking activities and address the prompt, "How might we establish Protiviti as a D&I Thought Leader?"
+               Discover more of my key takeways on <a href="https://www.linkedin.com/feed/update/urn:li:activity:6703650889892278273/">Rethinking D&I and Enabling your People through the Power of Design Thinking!</a></p>
+
+- title: Lead User Experience Designer, PorchLights
+  from: 2020
+  to: present
+  description: Collaborating directly with the CEO/Founder to develop user personas, information architecture, wireframes, web app user interfaces, color scheme, logo creation, and design assistance in Figma for a whimsical and sleek end-to-end user experience.
+
+- title: Technology Consultant in Data Security and Analytics, Protiviti
+  from: 2019
+  to: present
+  description: I'm responsible for helping businesses manage their technology more effectively and securely
+               while taking a data-driven approach to solving their toughest challenges. I've implemented data protection programs through performing descriptive analytics to evaluate scan results, removable media use, and externally shared files. I utilized this data to create data models and dashboards displaying key findings surrounding sensitive data in the environment. 
+               Through interviewing Data Owners, I helped configure Azure Information Protection (AIP) sensitivity labels around existing business processes to classify and manage the organization’s sensitive data and mitigate risk from disruptive financial, operational, and security-related events. As part of the ongoing monitoring efforts of Azure Information Protection, I implemented a PowerBI dashboard to measure and report AIP health metrics in real-time.

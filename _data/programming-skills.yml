@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
-  percentage: 90
+- name: Visualization in Python (MatplotLib, Seaborn), Microsoft Power BI
+  percentage: 85
+  color: blue
+
+- name: Data Analysis in Python (Numpy, Pandas), Alteryx (Designer Core Certified), Excel (Advanced Certified)
+  percentage: 70
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
-
-- name: Python
+- name: Machine Learning and Statistical Analysis in Python (Scikit-learn, TensorFlow, PyTorch)
   percentage: 70
   color: dark

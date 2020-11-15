@@ -1,7 +1,7 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
-
-- name: Adobe Illustrator
+- name: Wireframing in Figma and Adobe Suite 
   percentage: 90
-  color: success
+  color: dark
+
+- name: Design Thinking with MURAL and LUMA
+  percentage: 80
+  color: blue
