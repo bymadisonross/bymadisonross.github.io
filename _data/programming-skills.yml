@@ -2,6 +2,14 @@
   percentage: 60
   color: blue
 
+- name: Excel (Advanced Certified)
+  percentage: 95
+  color: danger
+
+- name: Alteryx (Designer Core Certified)
+  percentage: 85
+  color: danger
+  
 - name: Analysis in Python (Numpy, Pandas)
   percentage: 70
   color: danger

@@ -2,18 +2,10 @@
   percentage: 85
   color: blue
 
-- name: Excel (Advanced Certified)
-  percentage: 95
-  color: danger
-
-- name: Alteryx (Designer Core Certified)
-  percentage: 85
-  color: danger
-
 - name: Figma 
   percentage: 90
-  color: green
+  color: dark
 
 - name: Design Thinking
   percentage: 80
-  color: yellow
+  color: dark
