@@ -1,7 +1,7 @@
 ---
-name: Coding Like Vincent Van Gogh
-tools: [Support, Author, VVG]
+name: My Legacy at the University of Florida
+tools: [Leadership, DEI, Technology, Workshops, Speaker]
 image:
-description: Show some support by following me!
-external_url: https://github.com/YoussefRaafatNasry
+description: Driving Careers in Technology Forward at the University of Florida.
+external_url: https://www.linkedin.com/pulse/my-legacy-university-florida-madison-c-ross
 ---
