@@ -1,11 +1,23 @@
-- name: Visualization in Python (MatplotLib, Seaborn), Microsoft Power BI
+- name: Visualization in Microsoft Power BI
   percentage: 85
   color: blue
 
-- name: Data Analysis in Python (Numpy, Pandas), Alteryx (Designer Core Certified), Excel (Advanced Certified)
+- name: Visualization in Python (MatplotLib, Seaborn)
+  percentage: 60
+  color: blue
+
+- name: Excel (Advanced Certified)
+  percentage: 95
+  color: danger
+
+- name: Alteryx (Designer Core Certified)
+  percentage: 85
+  color: danger
+
+- name: Data Analysis in Python (Numpy, Pandas)
   percentage: 70
   color: danger
 
-- name: Machine Learning and Statistical Analysis in Python (Scikit-learn, TensorFlow, PyTorch)
-  percentage: 70
+- name: Machine Learning in Python (Scikit-learn, TensorFlow, PyTorch)
+  percentage: 30
   color: dark
