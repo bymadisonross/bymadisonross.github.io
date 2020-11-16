@@ -15,7 +15,7 @@ Whether I'm building data models and dashboards to unlock insights for my client
 
 If you'd like to join one of my projects, or if you have something that might capture my interest, let's connect!
 
-<div>
+
 Not convinced? Here's what people are saying about me and my work:
 
 > "Madison was instrumental in building the PorchLights user experience for our institutional partners and daily users. She spearheaded the user experience and design, crafted a seamless layout in Figma, and worked with us to develop user personas to better understand our user needs. {% include elements/highlight.html text="Her designs supported the next iteration of features that led to greater daily user traffic and will continue to guide the vision of the platform! I could not recommend working with Madison enough to meet your design & user experience needs." %}" - Rachel Halfaker, CEO and Founder of PorchLights
@@ -29,7 +29,6 @@ Not convinced? Here's what people are saying about me and my work:
 > “Madison has been an instrumental part of furthering our Diversity & Inclusion initiatives. Her work on the D&I book club has been effective and embraced by our employees. Her innovative thinking is what makes Madison an asset  to Protiviti. {% include elements/highlight.html text="I enjoy the time I get to spend with Madison as she is creative, she is an exceptional executer and she exudes our value of inclusion in her interactions with others." %} I feel blessed that I've had an opportunity to know her and look forward to  working with her more in the future." - Ranelle D., Protiviti Global Senior Manager of Diversity & Inclusion
 
 > "I found her to be a very pleasant young person who is very passionate about technology. What is most impressive about Madison is her ability to channel this passion towards tangible outcomes. {% include elements/highlight.html text="Not only is she self-motivated and able to initiate ambitious projects, but she has the follow through to see them realized into successful conclusions." %} I find this combination of talents quite rare and they makes her truly stand out among her peers." - Dr. Aditi Mukherjee, University of Florida Professor
-</div>
 
 <div class="row">
 {% include about/timeline.html %}
