@@ -9,3 +9,5 @@
 - name: Design Thinking
   percentage: 80
   color: dark
+
+# put in the about.md page - <div class="row">{% include about/skills.html title="Design Skills" source=site.data.other-skills %}</div>

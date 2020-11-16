@@ -3,8 +3,8 @@
     {% for item in site.data.feedback %}
       <div class="feedback-item">
         <div class="content">
-          <h2>{{ item.title }}</h2>
           <p>{{ item.description }}</p>
+          <h6> - {{ item.title }}</h6>
         </div>
       </div>
     {% endfor %}

@@ -17,3 +17,5 @@
 - name: ML in Python (Scikit-learn, TensorFlow, PyTorch)
   percentage: 30
   color: dark
+
+# put in the about.md page - <div class="row">{% include about/skills.html title="Analytics Skills" source=site.data.programming-skills %}</div>
