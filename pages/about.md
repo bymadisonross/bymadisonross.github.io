@@ -15,11 +15,13 @@ Whether I'm building data models and dashboards to unlock insights for my client
 
 If you'd like to join one of my projects, or if you have something that might capture my interest, let's connect!
 
-[comment]: <<div class="row">
-{% include about/skills.html title="Analytics Skills" source=site.data.programming-skills %}
 
-{% include about/skills.html title="Design Skills" source=site.data.other-skills %}
-</div>>
+[//]: # <div class="row"> {% include about/skills.html title="Analytics Skills" source=site.data.programming-skills %} {% include about/skills.html title="Design Skills" source=site.data.other-skills %} </div>>
+
+
+<div class="row">
+{% include about/feedback.html %}
+</div>
 
 <div class="row">
 {% include about/timeline.html %}

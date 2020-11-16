@@ -1,12 +1,13 @@
 ### Site Settings ###
 title               : Madison Ross
 description         : >-
-                      Hi, I'm Madison! I'm currently a Technology Consultant at Protiviti, 
-                      Speaker for Women Who Code's Data Science Track, and 
-                      Co-Director of Protiviti's Global Diversity and Inclusion Book Club.
+                      Hi, I'm Madison! I'm currently a Technology Consultant at Protiviti, Speaker for Women Who Code's Data Science Track, and Co-Director of Protiviti's Global Diversity & Inclusion Book Club.
+                      I'm passionate about streamlining processes utilizing advanced analytics and machine learning techniques, discovering and reducing bias in algorithms, and humanizing technology for the accessibility of society's most vulnerable.
+                      My mission is to cultivate an inclusive workplace culture by widening individual perspectives and establishing a support system to empower more minorities to pursue careers and leadership roles in technology.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : bymadisonross.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
+
 
 ### Plugins ###
 plugins:
