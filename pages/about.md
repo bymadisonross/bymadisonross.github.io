@@ -15,8 +15,8 @@ Whether I'm building data models and dashboards to unlock insights for my client
 
 If you'd like to join one of my projects, or if you have something that might capture my interest, let's connect!
 
-
-Here's what people are saying about me and my work:
+<div>
+Not convinced? Here's what people are saying about me and my work:
 
 > "Madison was instrumental in building the PorchLights user experience for our institutional partners and daily users. She spearheaded the user experience and design, crafted a seamless layout in Figma, and worked with us to develop user personas to better understand our user needs. {% include elements/highlight.html text="Her designs supported the next iteration of features that led to greater daily user traffic and will continue to guide the vision of the platform! I could not recommend working with Madison enough to meet your design & user experience needs." %}" - Rachel Halfaker, CEO and Founder of PorchLights
 
@@ -24,15 +24,12 @@ Here's what people are saying about me and my work:
 
 > “Madison was able to pass the Alteryx certification in a short amount of time and join the Advanced Analytics Development team on a number of projects. Very impressive! {% include elements/highlight.html text="She's a natural leader with a good knowledge around process, data analytics, and most importantly, an innovative spirit." %} Keep up the good work!" - Anya D., Protiviti Director
 
-> "Madison is among the most driven, organized, and purposeful leaders that I've ever worked! She always is looking towards the future, identifying new opportunities to improve our firms Diversity & Inclusion efforts and taking the initiative to affect positive change. Any team would be incredibly lucky to have Madison join!"
-Zachary A., Protiviti Co-Director of the Diversity & Inclusion Book Club
+> "Madison is among the most driven, organized, and purposeful leaders that I've ever worked! {% include elements/highlight.html text="She always is looking towards the future, identifying new opportunities to improve our firms Diversity & Inclusion efforts and taking the initiative to affect positive change." %} Any team would be incredibly lucky to have Madison join!" - Zachary A., Protiviti Co-Director of the Diversity & Inclusion Book Club
 
-> “Madison has been an instrumental part of furthering our Diversity & Inclusion initiatives. Her work on the D&I book club has been effective and embraced by our employees. Madison is organized, thoughtful, and her technical expertise is greatly appreciated. Her innovated thinking is what makes Madison an asset to not only the D&I team, but to Protiviti. I enjoy the time I get to spend with Madison as she is creative, she is an exceptional executer and she exudes our value of inclusion in her interactions with others. I feel blessed that I've had an opportunity to know her and look forward to  working with her more in the future."
-Ranelle D., Protiviti Global Senior Manager of Diversity & Inclusion
+> “Madison has been an instrumental part of furthering our Diversity & Inclusion initiatives. Her work on the D&I book club has been effective and embraced by our employees. Her innovative thinking is what makes Madison an asset  to Protiviti. {% include elements/highlight.html text="I enjoy the time I get to spend with Madison as she is creative, she is an exceptional executer and she exudes our value of inclusion in her interactions with others." %} I feel blessed that I've had an opportunity to know her and look forward to  working with her more in the future." - Ranelle D., Protiviti Global Senior Manager of Diversity & Inclusion
 
-> "I found her to be a very pleasant young person who is very passionate about technology. What is most impressive about Madison is her ability to channel this passion towards tangible outcomes. Not only is she self-motivated and able to initiate ambitious projects, but she has the follow through to see them realized into successful conclusions. I find this combination of talents quite rare and they makes her truly stand out among her peers." - Dr. Aditi Mukherjee, University of Florida Professor
-
-> "Madison is committed to giving back whenever possible. When presented with a new task or responsibility, she never hesitates for a moment. She learns quickly, operates efficiently, possesses a sense of urgency and always takes the initiative to bring new ideas to our team. Working with Madison has been a pleasure, she is a natural leader." - Michelle Bloom-Lugo, University of Florida Director of Business Career Services
+> "I found her to be a very pleasant young person who is very passionate about technology. What is most impressive about Madison is her ability to channel this passion towards tangible outcomes. {% include elements/highlight.html text="Not only is she self-motivated and able to initiate ambitious projects, but she has the follow through to see them realized into successful conclusions." %} I find this combination of talents quite rare and they makes her truly stand out among her peers." - Dr. Aditi Mukherjee, University of Florida Professor
+</div>
 
 <div class="row">
 {% include about/timeline.html %}
