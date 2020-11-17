@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Madison Ross
 description         : >-
-                      Hi, I'm Madison! I'm a Technology Consultant at Protiviti passionate about innovating processes with behavior in mind, designing responsible AI, and humanizing technology for the accessibility of society's most vulnerable.
-                      My mission is to cultivate an inclusive workplace culture by widening individual perspectives and establishing a support system to empower more minorities to pursue careers and leadership roles in techn.
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+                      Hi, I'm Mads! I'm a Technology Consultant at Protiviti passionate about innovating processes with behavioral science, designing responsible AI, and humanizing technology for the accessibility of society's most vulnerable.
+                      My mission is to cultivate an inclusive workplace by widening individual perspectives and establishing a support system to empower more minorities to pursue careers and leadership roles in tech.
+baseurl             : ""                          # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : bymadisonross.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
