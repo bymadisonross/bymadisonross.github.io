@@ -1,7 +1,7 @@
 <div align="center">
-    <h1>portfolYOU</h1>
-    <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i>
+    <h1>Madison Ross's Website</h1>
+    <i>My portfolio in Data Science and Design with projects including podcasts, workshops, visualizations, articles, and more!</i>
     <br><br>
-    <img src="screenshot.gif">
-    <sub><sup>© 2019 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
+    <img src="headshot.png">
+    <sub><sup>© 2019 portfolYOU (Jekyll theme), licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
 </div>
