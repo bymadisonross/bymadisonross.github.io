@@ -30,9 +30,9 @@ Based on Rachel's discovery interviews, we created two personas. George and Stac
 
 [PorchLights Video (v0)](https://vimeo.com/456252455)
 
-![Original Design](images/Screen_Shot_2020-11-25_at_8.55.51_PM.png)
+![Original Design](assets/images/Screen_Shot_2020-11-25_at_8.55.51_PM.png)
 
-![Original Design](images/Screen_Shot_2020-11-25_at_8.55.24_PM.png)
+![Original Design](assets/images/Screen_Shot_2020-11-25_at_8.55.24_PM.png)
 
 The original design had little color and an excess of tabs and icons in the navigator bar. My own experience navigating through the interface was a bit like a maze. I wasn't sure where to look and found myself deep in a second navigation bar (below). Here are my main observations at this stage:
 
@@ -41,7 +41,7 @@ The original design had little color and an excess of tabs and icons in the navi
 - The Project Gallery lists all available project options based on your location. Based on user persona needs, this likely isn't used often by a user (the focus should be on creating and managing their project). Therefore, it doesn't seem valuable enough to be in the navigation bar.
 - Instead of relying on the user's intuition, each tab is labeled for a specific function with its own page. For example, there is a page for each aspect of the user's project, including permitting, finances, and implementation.
 
-![Original Design - Build a Project](images/Screen_Shot_2020-11-25_at_8.54.48_PM.png)
+![Original Design - Build a Project](assets/images/Screen_Shot_2020-11-25_at_8.54.48_PM.png)
 
 
 ### Version 1: Envisioning the Updated Design Concept of PorchLights
@@ -55,8 +55,6 @@ Click on the filter of the below table to see the differences from the original 
 [Information Architecture Table](https://www.notion.so/4e7712e9f17743b29b01a8e30e3c7d9f)
 
 # Wireframes and Design Process
-
-![ProchLights V1 Design](https://cdn.dribbble.com/users/4750159/screenshots/14338912/media/b86aba5950a380c16e0cfa6a8154df71.jpg)
 
 With the basic functionality in mind, I went searching for inspiration on Dribbble by focusing on whimsical themes and project management dashboards. Rachel was very clear in the current process for building community projects - residents had to self-research project requirements and search for permitting requirements in unclear, outdated government websites. We wanted the experience for PorchLights to be fun and as easy as possible → whimsical and clean design.
 
@@ -73,24 +71,24 @@ I began sketching in order to visualize our ideas in low fidelity wireframes and
 
 ### V1 Design in Figma
 
-It was my first time utilizing Figma, so I spent some time getting familiar with the interface while trying out different wireframes. 
+![PorchLights V1 Design](https://cdn.dribbble.com/users/4750159/screenshots/14338912/media/b86aba5950a380c16e0cfa6a8154df71.jpg)
 
-The final product is shown in the embedded Figma file below and my shots are also available on Dribbble.
+It was my first time utilizing Figma, so I spent some time getting familiar with the interface while trying out different wireframes. I also created a branding guide with custom illustrations and logo redesign to ensure future designers can build off my work.
 
-[Madison Ross Dribbble Portfolio](https://dribbble.com/bymadisonross)
+![PorchLights Illustration](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1602686491435x121610209750650620%2FRectangle%2520126.png?w=512&h=309&auto=compress&fit=crop&dpr=2)
 
-[PorchLights Figma Designs](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fef6Jpo1bXkXLy5yFYp9tgm%2FPorchLights-Design-Project%3Fnode-id%3D0%253A1)
+The final designs are in [Figma](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fef6Jpo1bXkXLy5yFYp9tgm%2FPorchLights-Design-Project%3Fnode-id%3D0%253A1) and my shots are available [my Dribbble Portfolio](https://dribbble.com/bymadisonross).
 
 # Impact
 
 
 ### Design Updates in PorchLights
 
-![PorchLights V1](PorchLights%2068bd753a3d29419c991596e6ec5e3569/Screen_Shot_2020-11-25_at_10.18.09_PM.png)
+![PorchLights V1 Logo](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1600867322999x519942349333436300%2FPorchLights%2520Logo%25201?w=96&h=81&auto=compress&fit=crop&dpr=2)
 
-![PorchLights V1](PorchLights%2068bd753a3d29419c991596e6ec5e3569/Screen_Shot_2020-11-25_at_10.18.24_PM.png)
+![PorchLights V1](assets/images/Screen_Shot_2020-11-25_at_10.18.24_PM.png)
 
-![PorchLights V1](PorchLights%2068bd753a3d29419c991596e6ec5e3569/Screen_Shot_2020-11-25_at_10.19.05_PM.png)
+![PorchLights V1](assets/images/PorchLights%2068bd753a3d29419c991596e6ec5e3569/Screen_Shot_2020-11-25_at_10.19.05_PM.png)
 
 At this stage, not all of my ideas have been implemented into the application, but they have made a significant impact. The experience feels much more streamlined as I navigate through the project pages.
 
