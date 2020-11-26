@@ -16,27 +16,25 @@ Our primary goals were to develop v1 of PorchLight's web application design and 
 
 # Building User Personas
 
-![PorchLights User Persona](https://cdn.dribbble.com/users/4750159/screenshots/14395304/media/07aad17552893f12acfbdbd2880d70df.png)
-
 Rachel worked directly with the primary users and stakeholders to understand their needs, from which we identified the following functionality requirements: guidance throughout project lifecycle, from initial budgeting and permitting to implementation and ongoing maintenance; managing multiple project teams with messenger functionality; community functionality to learn from others and encourage one another in projects.
 
 Based on Rachel's discovery interviews, we created two personas. George and Stacy (not pictured) represent the target market for PorchLights and is what I referenced for guidance and direction when coming up with design solutions.
 
-- George is a restaurant owner who wants to be able to adapt his store to meet COVID-19 guidance, but has little knowledge of the permitting required. Government websites don't make it easy for him to find this knowledge. He also manages his project team and would like a streamlined way to communicate with his team rather than text message.
-- Stacy is a high-school student looking to take a more active role in her community by starting a garden project, but she has limited resources and wants to do it as quickly as possible. She wants a one-stop-shop for her project needs and guidance on fundraising and capturing feedback from her community to showcase her impact for college applications. She also wants to be able to learn from those in her community starting similar or successful initiatives.
+![PorchLights George User Persona](https://cdn.dribbble.com/users/4750159/screenshots/14395304/media/07aad17552893f12acfbdbd2880d70df.png)
+
+George is a restaurant owner who wants to be able to adapt his store to meet COVID-19 guidance, but has little knowledge of the permitting required. Government websites don't make it easy for him to find this knowledge. He also manages his project team and would like a streamlined way to communicate with his team rather than text message.
+
+![PorchLights Stacy User Persona](../assets/images/Screen_Shot_2020-11-25_at_9.28.42_PM.png)
+
+Stacy is a high-school student looking to take a more active role in her community by starting a garden project, but she has limited resources and wants to do it as quickly as possible. She wants a one-stop-shop for her project needs and guidance on fundraising and capturing feedback from her community to showcase her impact for college applications. She also wants to be able to learn from those in her community starting similar or successful initiatives.
 
 # Information Architecture
 
-
 ### Version 0: Original Design of PorchLights
 
-[PorchLights Video (v0)](https://vimeo.com/456252455)
+![Original Design](../assets/images/Screen_Shot_2020-11-25_at_8.55.51_PM.png)
 
-<iframe width="420" height="315" src="https://vimeo.com/456252455" frameborder="0" allowfullscreen></iframe>
-
-![Original Design](../images/Screen_Shot_2020-11-25_at_8.55.51_PM.png)
-
-![Original Design](../images/Screen_Shot_2020-11-25_at_8.55.24_PM.png)
+![Original Design](../assets/images/Screen_Shot_2020-11-25_at_8.55.24_PM.png)
 
 The original design had little color and an excess of tabs and icons in the navigator bar. My own experience navigating through the interface was a bit like a maze. I wasn't sure where to look and found myself deep in a second navigation bar (below). Here are my main observations at this stage:
 
@@ -46,7 +44,6 @@ The original design had little color and an excess of tabs and icons in the navi
 - Instead of relying on the user's intuition, each tab is labeled for a specific function with its own page. For example, there is a page for each aspect of the user's project, including permitting, finances, and implementation.
 
 ![Original Design - Build a Project](../assets/images/Screen_Shot_2020-11-25_at_8.54.48_PM.png)
-
 
 ### Version 1: Envisioning the Updated Design Concept of PorchLights
 
@@ -86,19 +83,17 @@ The final designs are in [Figma](https://www.figma.com/embed?embed_host=notion&u
 
 # Impact
 
-
 ### Design Updates in PorchLights
 
 ![PorchLights V1 Logo](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1600867322999x519942349333436300%2FPorchLights%2520Logo%25201?w=96&h=81&auto=compress&fit=crop&dpr=2)
 
-![PorchLights V1](Screen_Shot_2020-11-25_at_10.18.24_PM.png)
+![PorchLights V1](../assets/images/Screen_Shot_2020-11-25_at_10.18.24_PM.png)
 
-![PorchLights V1](../images/Screen_Shot_2020-11-25_at_10.19.05_PM.png)
+![PorchLights V1](../assets/images/Screen_Shot_2020-11-25_at_10.19.05_PM.png)
 
 At this stage, not all of my ideas have been implemented into the application, but they have made a significant impact. The experience feels much more streamlined as I navigate through the project pages.
 
 I spearheaded design for PorchLights web application (v1.0), collaborating directly with the CEO/Founder to develop user personas, information architecture, and mapping out of user experience. My designs resulted in eight cities piloting PorchLights urban garden kit (project).
-
 
 ### Feedback
 
