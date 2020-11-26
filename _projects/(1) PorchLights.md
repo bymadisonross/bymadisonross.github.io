@@ -10,7 +10,7 @@ description: Spearheaded design for PorchLights web application (v1.0), collabor
 
 ![PorchLights Community Project](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1601073762024x679193947734851600%2FLFL.jpg?w=192&h=135&auto=compress&dpr=2&fit=max)
 
-PorchLights is a project management web application that provides a quick and easy way for residents to build local neighborhood improvements for their communities. As the first designer and User Experience Lead of PorchLights, I worked with the CFO and Founder to build out user personas, structure the web application's information architecture, and design over 15 user interfaces through the development of wireframes, branding guide, and custom illustrations in Figma for a whimsical and sleek end-to-end user experience.
+PorchLights is a project management web application that provides a quick and easy way for residents to build local neighborhood improvements for their communities, such as the Little Free Library shown above. As the first designer and User Experience Lead of PorchLights, I worked with the CFO and Founder to build out user personas, structure the web application's information architecture, and design over 15 user interfaces through the development of wireframes, branding guide, and custom illustrations in Figma for a whimsical and sleek end-to-end user experience.
 
 Our primary goals were to develop v1 of PorchLight's web application design and information architecture to create an intuitive and welcoming user experience.
 
@@ -38,7 +38,7 @@ Stacy is a high-school student looking to take a more active role in her communi
 
 The original design had little color and an excess of tabs and icons in the navigator bar. My own experience navigating through the interface was a bit like a maze. I wasn't sure where to look and found myself deep in a second navigation bar (below). Here are my main observations at this stage:
 
-- Based on user needs from Rachel's interviews, we want to make the experience as fun and painless as possible. I would like to add more color and whimsy to the design.
+- Based on user needs from Rachel's interviews, we want to make the experience as fun and painless as possible. There is little color and personality in the interface and I would like to make it more playful and fun.
 - The Home page shows projects in the community, which is not what I anticipated. Based on user persona needs, I imagined the Home page would be a dashboard of project status (the focus should be on creating and managing their project, not necessarily looking at other projects in the area. This led to the creation of the Dashboard section in v1).
 - The Project Gallery lists all available project options based on your location. Based on user persona needs, this likely isn't used often by a user (the focus should be on creating and managing their project). Therefore, it doesn't seem valuable enough to be in the navigation bar.
 - Instead of relying on the user's intuition, each tab is labeled for a specific function with its own page. For example, there is a page for each aspect of the user's project, including permitting, finances, and implementation.
@@ -49,15 +49,15 @@ The original design had little color and an excess of tabs and icons in the navi
 
 My goal with the information architecture was to minimize the clutter in the navigation bar (shown above) and rely on the user's intuition to find the appropriate functionality. I previously discussed the core functionality of the application and built out the information architecture based on the key aspects of user activity: build and check-in on your project, find a community for advice on your project, and track your team. We also added in the Dashboard functionality to view project status and upcoming activities because it aligned with persona needs.
 
-There is a lot of information to detail within each project, so I wanted to make it cohesive all on one page will giving enough space for each section (and not make it a scrolling nightmare). 
+There is a lot of information to detail within each project, so I wanted to make it cohesive all on one page will giving enough space for each section and limited scrolling. 
 
-Click on the filter of the below table to see the differences from the original to new information architecture. Note there are many sub-pages in a second navigation bar within the old information architecture. I created a modern button-based approach in the new architecture so that it can hold a lot of information while appearing like a seamless, main screen.
+Click on the filter of the below linked table to see the differences from the original to new information architecture. Note there are many sub-pages in a second navigation bar within the old information architecture. I created a modern button-based approach in the new architecture so that it can hold a lot of information while appearing on a seamless, main screen.
 
 [Information Architecture Table](https://www.notion.so/4e7712e9f17743b29b01a8e30e3c7d9f)
 
 # Wireframes and Design Process
 
-With the basic functionality in mind, I went searching for inspiration on Dribbble by focusing on whimsical themes and project management dashboards. Rachel was very clear in the current process for building community projects - residents had to self-research project requirements and search for permitting requirements in unclear, outdated government websites. We wanted the experience for PorchLights to be fun and as easy as possible → whimsical and clean design.
+With the basic functionality in mind, I went searching for inspiration on Dribbble by focusing on colorful project management dashboards. As the current process for community residents involved self-research and navigating through outdated and poorly laid out government portals, we wanted the experience for PorchLights to be fun and as easy as possible → whimsical and clean design.
 
 ![Dribbble Layout Inspiration](https://cdn.dribbble.com/users/1991539/screenshots/7078475/media/6c33dbac7a1c37a2acd3111e8b486835.png)
 
@@ -67,7 +67,7 @@ With the basic functionality in mind, I went searching for inspiration on Dribbb
 
 ![Dribbble Map Inspiration](https://cdn.dribbble.com/users/5031392/screenshots/11029900/media/923107b955c4c79d3a6cdb8d1d6bd96d.png)
 
-I began sketching in order to visualize our ideas in low fidelity wireframes and then began executing the initial designs in Figma.
+I began sketching in order to visualize our ideas in low fidelity wireframes and then adapted the initial designs in Figma.
 
 
 ### V1 Design in Figma
@@ -80,6 +80,7 @@ It was my first time utilizing Figma, so I spent some time getting familiar with
 
 The final designs are in [Figma](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fef6Jpo1bXkXLy5yFYp9tgm%2FPorchLights-Design-Project%3Fnode-id%3D0%253A1) and my shots are available [my Dribbble Portfolio](https://dribbble.com/bymadisonross).
 
+![PorchLights V1 Design](https://dribbble.com/shots/14338890-PorchLights-Landing-Page)
 
 # Impact
 
@@ -91,7 +92,9 @@ The final designs are in [Figma](https://www.figma.com/embed?embed_host=notion&u
 
 ![PorchLights V1](../assets/images/Screen_Shot_2020-11-25_at_10.19.05_PM.png)
 
-At this stage, not all of my ideas have been implemented into the application, but they have made a significant impact. The experience feels much more streamlined as I navigate through the project pages.
+![PorchLights](../assets/images/Screen Shot 2020-11-26 at 2.02.02 PM.png)
+
+At this stage, only some of my ideas have been adapted into the application, but they have made a significant impact. The experience feels much more streamlined as I navigate through the project pages.
 
 I spearheaded design for PorchLights web application (v1.0), collaborating directly with the CEO/Founder to develop user personas, information architecture, and mapping out of user experience. My designs resulted in eight cities piloting PorchLights urban garden kit (project).
 
