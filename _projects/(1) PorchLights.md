@@ -12,7 +12,7 @@ PorchLights is a project management web application that provides a quick and ea
 
 Our primary goals were to develop v1 of PorchLight's web application design and information architecture to create an intuitive and welcoming user experience.
 
-# Building User **Personas**
+# Building User Personas
 
 ![PorchLights%2068bd753a3d29419c991596e6ec5e3569/Screen_Shot_2020-11-25_at_9.28.23_PM.png](PorchLights%2068bd753a3d29419c991596e6ec5e3569/Screen_Shot_2020-11-25_at_9.28.23_PM.png)
 
@@ -26,6 +26,7 @@ Based on Rachel's discovery interviews, we created two personas. George and Stac
 - Stacy is a high-school student looking to take a more active role in her community by starting a garden project, but she has limited resources and wants to do it as quickly as possible. She wants a one-stop-shop for her project needs and guidance on fundraising and capturing feedback from her community to showcase her impact for college applications. She also wants to be able to learn from those in her community starting similar or successful initiatives.
 
 # Information Architecture
+
 
 ### Version 0: Original Design of PorchLights
 
@@ -43,6 +44,7 @@ The original design had little color and an excess of tabs and icons in the navi
 - Instead of relying on the user's intuition, each tab is labeled for a specific function with its own page. For example, there is a page for each aspect of the user's project, including permitting, finances, and implementation.
 
 ![PorchLights%2068bd753a3d29419c991596e6ec5e3569/Screen_Shot_2020-11-25_at_8.54.48_PM.png](PorchLights%2068bd753a3d29419c991596e6ec5e3569/Screen_Shot_2020-11-25_at_8.54.48_PM.png)
+
 
 ### Version 1: Envisioning the Updated Design Concept of PorchLights
 
@@ -68,6 +70,7 @@ With the basic functionality in mind, I went searching for inspiration on Dribbb
 
 I began sketching in order to visualize our ideas in low fidelity wireframes and then began executing the initial designs in Figma.
 
+
 ### V1 Design in Figma
 
 It was my first time utilizing Figma, so I spent some time getting familiar with the interface while trying out different wireframes. 
@@ -80,6 +83,7 @@ The final product is shown in the embedded Figma file below and my shots are als
 
 # Impact
 
+
 ### Design Updates in PorchLights
 
 ![PorchLights%2068bd753a3d29419c991596e6ec5e3569/Screen_Shot_2020-11-25_at_10.18.09_PM.png](PorchLights%2068bd753a3d29419c991596e6ec5e3569/Screen_Shot_2020-11-25_at_10.18.09_PM.png)
@@ -91,6 +95,7 @@ The final product is shown in the embedded Figma file below and my shots are als
 At this stage, not all of my ideas have been implemented into the application, but they have made a significant impact. The experience feels much more streamlined as I navigate through the project pages.
 
 I spearheaded design for PorchLights web application (v1.0), collaborating directly with the CEO/Founder to develop user personas, information architecture, and mapping out of user experience. My designs resulted in eight cities piloting PorchLights urban garden kit (project).
+
 
 ### Feedback
 
