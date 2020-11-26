@@ -8,6 +8,8 @@ description: Spearheaded design for PorchLights web application (v1.0), collabor
 
 # Overview
 
+![PorchLights Community Project](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1601073762024x679193947734851600%2FLFL.jpg?w=192&h=135&auto=compress&dpr=2&fit=max)
+
 PorchLights is a project management web application that provides a quick and easy way for residents to build local neighborhood improvements for their communities. As the first designer and User Experience Lead of PorchLights, I worked with the CFO and Founder to build out user personas, structure the web application's information architecture, and design over 15 user interfaces through the development of wireframes, branding guide, and custom illustrations in Figma for a whimsical and sleek end-to-end user experience.
 
 Our primary goals were to develop v1 of PorchLight's web application design and information architecture to create an intuitive and welcoming user experience.
