@@ -80,7 +80,7 @@ It was my first time utilizing Figma, so I spent some time getting familiar with
 
 The final designs are in [Figma](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fef6Jpo1bXkXLy5yFYp9tgm%2FPorchLights-Design-Project%3Fnode-id%3D0%253A1) and my shots are available [my Dribbble Portfolio](https://dribbble.com/bymadisonross).
 
-![PorchLights V1 Design](https://dribbble.com/shots/14338890-PorchLights-Landing-Page)
+![PorchLights V1 Design](https://cdn.dribbble.com/users/4750159/screenshots/14338890/media/8d3acab14f3f55a3971454bd1852c523.jpg)
 
 # Impact
 
