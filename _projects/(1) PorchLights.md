@@ -76,7 +76,7 @@ I began sketching in order to visualize our ideas in low fidelity wireframes and
 
 It was my first time utilizing Figma, so I spent some time getting familiar with the interface while trying out different wireframes. I also created a branding guide with custom illustrations and logo redesign to ensure future designers can build off my work.
 
-![PorchLights Illustration](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1602686491435x121610209750650620%2FRectangle%2520126.png?w=512&h=309&auto=compress&fit=crop&dpr=2)
+![PorchLights V1 Logo](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1600867322999x519942349333436300%2FPorchLights%2520Logo%25201?w=96&h=81&auto=compress&fit=crop&dpr=2)
 
 The final designs are in [Figma](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fef6Jpo1bXkXLy5yFYp9tgm%2FPorchLights-Design-Project%3Fnode-id%3D0%253A1) and my shots are available [my Dribbble Portfolio](https://dribbble.com/bymadisonross).
 
@@ -86,7 +86,7 @@ The final designs are in [Figma](https://www.figma.com/embed?embed_host=notion&u
 
 ### Design Updates in PorchLights
 
-![PorchLights V1 Logo](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1600867322999x519942349333436300%2FPorchLights%2520Logo%25201?w=96&h=81&auto=compress&fit=crop&dpr=2)
+![PorchLights V1](../assets/images/Screen_Shot_2020-11-25_at_10.18.09_PM.png)
 
 ![PorchLights V1](../assets/images/Screen_Shot_2020-11-25_at_10.18.24_PM.png)
 
