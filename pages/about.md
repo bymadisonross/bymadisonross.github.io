@@ -9,18 +9,16 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-I'm either building things to help people or building up people to tackle new challenges. I believe in the power of everyday moments and am particularly interested in intertwining elements of data analytics and design thinking to develop empathy, craft compelling stories, and apply more effective problem-solving methods.
+I'm either building things to help people or building up people to tackle new challenges. I am particularly interested in intertwining elements of data analytics and human-centered design to develop empathy, craft compelling visual stories, and humanize technology and processes to meet user needs and apply more effective problem-solving methods.
 
-Whether I'm building data models and dashboards to unlock insights for my clients, streamlining processes utilizing machine learning techniques, cultivating an equitable and inclusive workplace culture for minorities in technology, or facilitating workshops to demystify topics like algorithmic bias and human-centered design, I'm always looking for a new adventure. If you'd like to join one of my projects, or if you have something that might capture my interest, let's connect!
+Whether I'm building data models and dashboards to unlock insights for her clients, streamlining processes utilizing machine learning techniques, driving global strategy for an equitable and inclusive workplace culture, or facilitating workshops to demystify emerging topics like algorithmic bias and design thinking, I'm always looking for a new adventure. If you'd like to join one of my projects, or if you have something that might capture my interest, let's connect!
 
 
-Not convinced? Here's what people are saying about me and my work:
+Here's what people are saying about me and my work:
 
 > "Madison was instrumental in building the PorchLights user experience for our institutional partners and daily users. She spearheaded the user experience and design, crafted a seamless layout in Figma, and worked with us to develop user personas to better understand our user needs. {% include elements/highlight.html text="Her designs supported the next iteration of features that led to greater daily user traffic and will continue to guide the vision of the platform! I could not recommend working with Madison enough to meet your design & user experience needs." %}" - Rachel Halfaker, CEO and Founder of PorchLights
 
 > “Madison has shown the ability to take on an advanced level of responsibilities often seen at the next level from anticipating client needs, leading meetings, driving client deliverables to completion, and effectively managing her time across multiple projects. Madison understood when to {% include elements/highlight.html text="innovate some of our traditional reporting procedures utilizing PowerBI to distill valuable insights that the client was able to utilize and present to the Board of Directors." %} I have the utmost confidence she will continue to leverage her data and analytics knowledge while expanding her familiarity with various technologies to become a great member of the team and I would take her on all of my projects." - Cam W., Protiviti Manager
-
-> “Madison was able to pass the Alteryx certification in a short amount of time and join the Advanced Analytics Development team on a number of projects. Very impressive! {% include elements/highlight.html text="She's a natural leader with a good knowledge around process, data analytics, and most importantly, an innovative spirit." %} Keep up the good work!" - Anya D., Protiviti Director
 
 > "Madison is among the most driven, organized, and purposeful leaders that I've ever worked! {% include elements/highlight.html text="She always is looking towards the future, identifying new opportunities to improve our firms Diversity & Inclusion efforts and taking the initiative to affect positive change." %} Any team would be incredibly lucky to have Madison join!" - Zachary A., Protiviti Co-Director of the Diversity & Inclusion Book Club
 
