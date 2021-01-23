@@ -16,6 +16,8 @@ Whether I'm building data models and dashboards to unlock insights for her clien
 
 Here's what people are saying about me and my work:
 
+{% include carousel.html height="50" unit="%" duration="7" %}
+
 > "Madison was instrumental in building the PorchLights user experience for our institutional partners and daily users. She spearheaded the user experience and design, crafted a seamless layout in Figma, and worked with us to develop user personas to better understand our user needs. {% include elements/highlight.html text="Her designs supported the next iteration of features that led to greater daily user traffic and will continue to guide the vision of the platform! I could not recommend working with Madison enough to meet your design & user experience needs." %}" - Rachel Halfaker, CEO and Founder of PorchLights
 
 > “Madison has shown the ability to take on an advanced level of responsibilities often seen at the next level from anticipating client needs, leading meetings, driving client deliverables to completion, and effectively managing her time across multiple projects. Madison understood when to {% include elements/highlight.html text="innovate some of our traditional reporting procedures utilizing PowerBI to distill valuable insights that the client was able to utilize and present to the Board of Directors." %} I have the utmost confidence she will continue to leverage her data and analytics knowledge while expanding her familiarity with various technologies to become a great member of the team and I would take her on all of my projects." - Cam W., Protiviti Manager

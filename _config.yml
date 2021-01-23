@@ -4,7 +4,7 @@ description         : >-
                       Inclusive researcher and designer focused on the intersection of data analytics and human-centered design. Currently a Technology Consultant at Protiviti improving processes using design thinking and AI.
 baseurl             : ""                          # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : bymadisonross.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-
+remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
 ### Plugins ###
