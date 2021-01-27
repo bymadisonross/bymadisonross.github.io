@@ -44,10 +44,9 @@ Stacy is a high-school student looking to take a more active role in her communi
 
 Here are my main observations looking at ground 0 of PorchLights based on user persona needs:
 
-- The original design has little color and personality.
-- The navigation bars are cluttered and not very intuitive. I had trouble navigating through the interface and found myself deep in a second navigation bar.
-- Based on user needs, we want the experience at Porchlights to be as painless as possible. I would like to declutter the interface and add more personality and playfulness to the experience.
-- The information architecture is not very intuitive. For example, the Home page shows projects in the community, whereas our user personas would probably anticipate the Home page to include information about managing their own project. Additionally, the navigation bar includes a Project Gallery page, listing all available project kits. Based on user persona needs, this likely isn't used often by a user. Once they create their project, they probably won't visit this page again. Therefore, I want to refocus the navigation and page content on the user's needs.
+- The original design has minimal color and personality.
+- The navigation bars and icons are cluttered and not very intuitive. I had trouble navigating through the interface and found myself deep in a second navigation bar. Additionally, the navigation bar includes a Project Gallery page, listing all available project kits. Based on user persona needs, this likely isn't used often by a user. Once they create their project, they probably won't visit this page again. Therefore, I want to refocus the navigation and page content on the user's needs.
+- The information architecture is not very intuitive. For example, the Home page shows projects in the community, whereas we determined our user personas would anticipate the Home page to include information on their own project. 
 
 ### Version 1: Envisioning the Updated Design Concept of PorchLights
 
