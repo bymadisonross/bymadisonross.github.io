@@ -8,17 +8,21 @@ description: Spearheaded design for PorchLights web application (v1.0), collabor
 
 # Overview
 
-![PorchLights Community Project](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1601073762024x679193947734851600%2FLFL.jpg?w=192&h=135&auto=compress&dpr=2&fit=max)
+![PorchLights Community Project](https://miro.medium.com/max/1400/1*U0JGZ0TrjhATOj4PTP8A5A.png)
 
-PorchLights is a project management web application that provides a quick and easy way for residents to build local neighborhood improvements for their communities, such as the Little Free Library shown above. As the first designer and User Experience Lead of PorchLights, I worked with the CFO and Founder to build out user personas, structure the web application's information architecture, and design over 15 user interfaces through the development of wireframes, branding guide, and custom illustrations in Figma for a whimsical and sleek end-to-end user experience.
+City building, urban innovations, and funding tend to come from government agencies and private developers over long time periods. The tactical urbanism movement has brought attention to the need and ability for residents to reclaim public space in order to solve local challenges.
+
+PorchLights' platform enables planners, organizers, residents and local business owners to enhance their neighborhoods using urban project kits. Bundled project kits have included parklets, porch concerts, community gardens, bike hubs, and others, including options to design custom kits that solve specific challenges.
+
+As the first designer and Head of User Experience for PorchLights, I worked with the CEO and Founder to build out user personas, structure the web application's information architecture, and design over 15 user interfaces through the development of wireframes, branding guide, and custom illustrations in Figma for a whimsical and sleek end-to-end user experience.
 
 Our primary goals were to develop v1 of PorchLight's web application design and information architecture to create an intuitive and welcoming user experience.
 
 # Building User Personas
 
-Rachel worked directly with the primary users and stakeholders to understand their needs, from which we identified the following functionality requirements: guidance throughout project lifecycle, from initial budgeting and permitting to implementation and ongoing maintenance; managing multiple project teams with messenger functionality; community functionality to learn from others and encourage one another in projects.
+PorchLights works directly with the primary users and stakeholders to understand their needs, from which we identified the following barriers preventing residents from improving the public realm: access to funding, design and hardware procurement, navigation of the legal and regulatory environment, and long-term ownership solutions.
 
-Based on Rachel's discovery interviews, we created two personas. George and Stacy (not pictured) represent the target market for PorchLights and is what I referenced for guidance and direction when coming up with design solutions.
+Based on Porchlights' discovery interviews, we crafted two personas. George and Stacy (below) represent the target market for PorchLights and they are who I referenced for guidance and direction when coming up with design solutions.
 
 ![PorchLights George User Persona](https://cdn.dribbble.com/users/4750159/screenshots/14395304/media/07aad17552893f12acfbdbd2880d70df.png)
 
@@ -26,7 +30,7 @@ George is a restaurant owner who wants to be able to adapt his store to meet COV
 
 ![PorchLights Stacy User Persona](../assets/images/Screen_Shot_2020-11-25_at_9.28.42_PM.png)
 
-Stacy is a high-school student looking to take a more active role in her community by starting a garden project, but she has limited resources and wants to do it as quickly as possible. She wants a one-stop-shop for her project needs and guidance on fundraising and capturing feedback from her community to showcase her impact for college applications. She also wants to be able to learn from those in her community starting similar or successful initiatives.
+Stacy is a high-school student looking to take a more active role in her community by starting a garden project, but she has limited resources and wants to do it as quickly as possible. She wants a one-stop-shop for her project needs and guidance on fundraising and capturing feedback from her community to showcase her impact for college applications. She also wants to be able to learn from those in her community starting similar successful initiatives.
 
 # Information Architecture
 
@@ -36,28 +40,27 @@ Stacy is a high-school student looking to take a more active role in her communi
 
 ![Original Design](../assets/images/Screen_Shot_2020-11-25_at_8.55.24_PM.png)
 
-The original design had little color and an excess of tabs and icons in the navigator bar. My own experience navigating through the interface was a bit like a maze. I wasn't sure where to look and found myself deep in a second navigation bar (below). Here are my main observations at this stage:
-
-- Based on user needs from Rachel's interviews, we want to make the experience as fun and painless as possible. There is little color and personality in the interface and I would like to make it more playful and fun.
-- The Home page shows projects in the community, which is not what I anticipated. Based on user persona needs, I imagined the Home page would be a dashboard of project status (the focus should be on creating and managing their project, not necessarily looking at other projects in the area. This led to the creation of the Dashboard section in v1).
-- The Project Gallery lists all available project options based on your location. Based on user persona needs, this likely isn't used often by a user (the focus should be on creating and managing their project). Therefore, it doesn't seem valuable enough to be in the navigation bar.
-- Instead of relying on the user's intuition, each tab is labeled for a specific function with its own page. For example, there is a page for each aspect of the user's project, including permitting, finances, and implementation.
-
 ![Original Design - Build a Project](../assets/images/Screen_Shot_2020-11-25_at_8.54.48_PM.png)
+
+Here are my main observations looking at ground 0 of PorchLights based on user persona needs:
+
+- The original design has little color and personality.
+- The navigation bars are cluttered and not very intuitive. I had trouble navigating through the interface and found myself deep in a second navigation bar.
+- Based on user needs, we want the experience at Porchlights to be as painless as possible. I would like to declutter the interface and add more personality and playfulness to the experience.
+- The information architecture is not very intuitive. For example, the Home page shows projects in the community, whereas our user personas would probably anticipate the Home page to include information about managing their own project. Additionally, the navigation bar includes a Project Gallery page, listing all available project kits. Based on user persona needs, this likely isn't used often by a user. Once they create their project, they probably won't visit this page again. Therefore, I want to refocus the navigation and page content on the user's needs.
 
 ### Version 1: Envisioning the Updated Design Concept of PorchLights
 
-My goal with the information architecture was to minimize the clutter in the navigation bar (shown above) and rely on the user's intuition to find the appropriate functionality. I previously discussed the core functionality of the application and built out the information architecture based on the key aspects of user activity: build and check-in on your project, find a community for advice on your project, and track your team. We also added in the Dashboard functionality to view project status and upcoming activities because it aligned with persona needs.
+My goal with the information architecture was to minimize the clutter and focus on the user's goals to design appropriate functionality. Based on common challenges and user persona goals, we focused on project funding, complying with regulatory obligations, project implementation and ongoing maintenance, community pages for project best practices, and communication with a project team. We also converted the Home page to a Dashboard providing an overview of project status and upcoming events.
 
-There is a lot of information to detail within each project, so I wanted to make it cohesive all on one page will giving enough space for each section and limited scrolling. 
+There is a lot of information to detail within each project, so I wanted to make it cohesive all on one page while giving enough space for each section and limited scrolling. 
 
-Click on the filter of the below linked table to see the differences from the original to new information architecture. Note there are many sub-pages in a second navigation bar within the old information architecture. I created a modern button-based approach in the new architecture so that it can hold a lot of information while appearing on a seamless, main screen.
+Filter through the [Information Architecture Table](https://www.notion.so/4e7712e9f17743b29b01a8e30e3c7d9f?v=d709c87d82c64e2fad5a167d544b0b4f) to see my changes made to the information architecture. I created a modern button-based approach in the new architecture so that it can hold a lot of information while appearing on a seamless, main screen.
 
-[Information Architecture Table](https://www.notion.so/4e7712e9f17743b29b01a8e30e3c7d9f)
 
 # Wireframes and Design Process
 
-With the basic functionality in mind, I went searching for inspiration on Dribbble by focusing on colorful project management dashboards. As the current process for community residents involved self-research and navigating through outdated and poorly laid out government portals, we wanted the experience for PorchLights to be fun and as easy as possible → whimsical and clean design.
+With the basic functionality in mind, I went searching for inspiration on Dribbble. I focused on simple yet colorful project management dashboards. As the current process for community residents involved self-research and navigating through outdated and poorly laid out government portals, we wanted the experience for PorchLights to be fun and painless → whimsical and clean design.
 
 ![Dribbble Layout Inspiration](https://cdn.dribbble.com/users/1991539/screenshots/7078475/media/6c33dbac7a1c37a2acd3111e8b486835.png)
 
@@ -94,12 +97,10 @@ The final designs are in [Figma](https://www.figma.com/embed?embed_host=notion&u
 
 ![PorchLights](../assets/images/Screen Shot 2020-11-26 at 2.02.02 PM.png)
 
-At this stage, only some of my ideas have been adapted into the application, but they have made a significant impact. The experience feels much more streamlined as I navigate through the project pages.
-
-I spearheaded design for PorchLights web application (v1.0), collaborating directly with the CEO/Founder to develop user personas, information architecture, and mapping out of user experience. My designs resulted in eight cities piloting PorchLights urban garden kit (project).
+At this stage, some of my ideas have been adapted into the application and have made a significant impact. The experience feels much more streamlined as I navigate through the project pages. My designs resulted in eight cities piloting PorchLights urban garden kit.
 
 ### Feedback
 
 "Madison was instrumental in building the PorchLights user experience for our institutional partners and daily users. She spearheaded the user experience and design, crafted a seamless layout in Figma, and worked with us to develop user personas to better understand our user needs. Her designs supported the next iteration of features that led to greater daily user traffic and will continue to guide the vision of the platform! I could not recommend working with Madison enough to meet your design & user experience needs." 
 
-- Rachel Halfaker, Founder of [PorchLights](https://app.porchlights.org/)
+- Rachel Halfaker, CEO and Founder of [PorchLights](https://app.porchlights.org/)
