@@ -14,9 +14,9 @@ PorchLights' platform enables planners, organizers, residents and local business
 
 ### Design Goals for PorchLights
 
-As the first designer and Head of User Experience for PorchLights, I worked with the CEO and Founder to build out user personas, structure the web application's information architecture, and design over 15 user interfaces through the development of wireframes, branding guide, and custom illustrations in Figma for a whimsical and sleek end-to-end user experience.
+As the first designer and Head of User Experience for PorchLights, I worked directly with the CEO and Founder to build user personas, structure the web application's information architecture, and design over 15 user interfaces, a branding guide, and custom illustrations in Figma for a whimsical and sleek end-to-end user experience.
 
-Our primary goals were to develop v1 of PorchLight's web application design and information architecture to create an intuitive and welcoming user experience.
+My primary goal was to develop V1 of PorchLight's web application design and information architecture to create an intuitive and welcoming user experience.
 
 ## The Original Design of PorchLights (V0)
 
@@ -26,7 +26,7 @@ Our primary goals were to develop v1 of PorchLight's web application design and 
 
 ![Original Design - Build a Project](../assets/images/Screen_Shot_2020-11-25_at_8.54.48_PM.png)
 
-Here are my main observations looking at ground 0 of PorchLights based on user persona needs:
+Let's start with ground 0 of PorchLights. Here are my observations at this stage:
 
 - The original design has minimal color and personality.
 - The navigation bars and icons are cluttered and not very intuitive. I had trouble navigating through the interface and found myself deep in a second navigation bar. I want to refocus the navigation and page content based on the user's needs.
@@ -36,9 +36,9 @@ Here are my main observations looking at ground 0 of PorchLights based on user p
 
 ### Start With the User - Building User Personas
 
-PorchLights works directly with the primary users and stakeholders to understand their needs, from which we identified the following barriers preventing residents from improving the public realm: access to funding, design and hardware procurement, navigation of the legal and regulatory environment, and long-term ownership solutions.
+PorchLights works directly with their primary users and stakeholders to understand their needs, from which we identified the following barriers preventing residents from improving the public realm: access to funding, design and hardware procurement, navigation of the legal and regulatory environment, and long-term ownership solutions.
 
-Based on Porchlights' discovery interviews, we crafted two personas. George and Stacy (below) represent the target market for PorchLights and they are who I referenced for guidance and direction when coming up with design solutions.
+Based on Porchlights' discovery interviews, we crafted two personas. George and Stacy represent the target market for PorchLights and they are who I referenced for guidance and direction when coming up with design solutions.
 
 ![PorchLights George User Persona](https://cdn.dribbble.com/users/4750159/screenshots/14395304/media/07aad17552893f12acfbdbd2880d70df.png)
 
@@ -50,13 +50,13 @@ Stacy is a high-school student looking to take a more active role in her communi
 
 ### Rethinking the Information Architecture
 
-My goal with the information architecture is to minimize the clutter and focus on the user's goals to design appropriate functionality. Based on common challenges and user persona goals, we focused on project funding, complying with regulatory obligations, project implementation and ongoing maintenance, community pages for project best practices, and communication with a project team. We also converted the Home page to a Dashboard providing an overview of project status and upcoming events.
+My goal with the information architecture was to minimize the clutter and focus on the user's goals to design appropriate functionality. We identified common challenges included managing project funding, complying with regulatory obligations, project implementation and ongoing maintenance, interacting with the community, and collaborating with a project team. We also reimagined the Home page to be a Dashboard providing an overview of project status and upcoming events.
 
-There is a lot of information to detail within each project (i.e. project checklist, funding, implementation, etc.), but instead of spreading out across multiple pages I wanted to make it intuitive and cohesive by providing one main page with tabs for each section of the project.
+There is a lot of information to detail within each project (i.e. project checklist, funding, implementation, etc.), but instead of spreading out across multiple pages I wanted to make it cohesive and easy to navigate by providing one main page with tabs for each section of the project.
 
-Additionally, the navigation bar previously included a Project Gallery page, listing all available project kits. Based on user persona needs, they probably won't visit this page once they've created a project. Therefore, this page and anything relating to a project was put under the "Projects" section.
+Additionally, the navigation bar previously included a Project Gallery page, listing all available project kits. Based on user persona needs, George and Stacy probably won't visit this page once they've created their project. Therefore, this page and anything relating to a project was put under the "Projects" section.
 
-Look through my linked [Information Architecture Table](https://www.notion.so/4e7712e9f17743b29b01a8e30e3c7d9f?v=d709c87d82c64e2fad5a167d544b0b4f) to see the changes made to the information architecture. I created a modern button-based approach in the new architecture so that it can hold a lot of information while appearing on a seamless, main screen.
+Look through my linked [Information Architecture Table](https://www.notion.so/4e7712e9f17743b29b01a8e30e3c7d9f?v=d709c87d82c64e2fad5a167d544b0b4f) to see the changes made to the information architecture. I created a modern button-based (pop-up overlay) approach in the new architecture so that it can hold a lot of information while appearing on a seamless, main screen.
 
 ### Looking for Inspiration
 
