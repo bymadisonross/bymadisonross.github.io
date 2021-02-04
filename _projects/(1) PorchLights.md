@@ -1,10 +1,10 @@
 ---
-name: PorchLights Web App Design
+name: PorchLights Web App Redesign
 tools: [Design, Figma, UX/UI]
 image: /assets/images/image9.png
 description: Spearheaded design for PorchLights web application (v1.0), collaborating directly with the Founder and CEO to develop user personas, information architecture, and mapping out of user experience. Created 15 user interfaces through the development of wireframes, branding guide, and custom illustrations in Figma for a whimsical and sleek end-to-end user experience. Designs resulted in eight cities piloting PorchLights.
 ---
-# Designing PorchLights UX/UI
+# Redesigning PorchLights UX/UI
 
 ![PorchLights Community Project](https://miro.medium.com/max/1400/1*U0JGZ0TrjhATOj4PTP8A5A.png)
 
@@ -62,14 +62,6 @@ Look through my linked [Information Architecture Table](https://www.notion.so/4e
 
 With the basic functionality in mind, I went searching for inspiration on Dribbble. I focused on simple yet colorful project management dashboards. As the current process for community residents involved self-research and navigating through outdated and poorly laid out government portals, we wanted the experience for PorchLights to be fun and painless → whimsical and clean design.
 
-![Dribbble Layout Inspiration](https://cdn.dribbble.com/users/1991539/screenshots/7078475/media/6c33dbac7a1c37a2acd3111e8b486835.png)
-
-![Dribbble Dashboard Inspiration](https://cdn.dribbble.com/users/156577/screenshots/11220831/media/ac1c00f5559047ffa29dba2c5ad4670f.png)
-
-![Dribbble Color Inspiration](https://cdn.dribbble.com/users/25514/screenshots/14061674/media/9677020c9eff3d7116312ae258e345b2.png)
-
-![Dribbble Map Inspiration](https://cdn.dribbble.com/users/5031392/screenshots/11029900/media/923107b955c4c79d3a6cdb8d1d6bd96d.png)
-
 I began sketching in order to visualize our ideas in low fidelity wireframes and then adapted the initial designs in Figma.
 
 ## Designing PorchLights in Figma
@@ -86,6 +78,8 @@ The final designs are in [Figma](https://www.figma.com/embed?embed_host=notion&u
 
 ### Design Impact
 
+At this stage, some of my ideas have been adapted into the application and have made a significant impact. The experience feels much more streamlined as I navigate through the project pages. My designs resulted in eight cities piloting PorchLights urban garden kit.
+
 ![PorchLights V1](../assets/images/Screen_Shot_2020-11-25_at_10.18.09_PM.png)
 
 ![PorchLights V1](../assets/images/Screen_Shot_2020-11-25_at_10.18.24_PM.png)
@@ -93,8 +87,6 @@ The final designs are in [Figma](https://www.figma.com/embed?embed_host=notion&u
 ![PorchLights V1](../assets/images/Screen_Shot_2020-11-25_at_10.19.05_PM.png)
 
 ![PorchLights](../assets/images/Screen Shot 2020-11-26 at 2.02.02 PM.png)
-
-At this stage, some of my ideas have been adapted into the application and have made a significant impact. The experience feels much more streamlined as I navigate through the project pages. My designs resulted in eight cities piloting PorchLights urban garden kit.
 
 ### Feedback from the PorchLights CEO
 
