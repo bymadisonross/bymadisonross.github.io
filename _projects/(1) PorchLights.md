@@ -2,7 +2,7 @@
 name: PorchLights Web App Redesign
 tools: [Design, Figma, UX/UI]
 image: /assets/images/image9.png
-description: Spearheaded design for PorchLights web application (v1.0), collaborating directly with the Founder and CEO to develop user personas, information architecture, and mapping out of user experience. Created 15 user interfaces through the development of wireframes, branding guide, and custom illustrations in Figma for a whimsical and sleek end-to-end user experience. Designs resulted in eight cities piloting PorchLights.
+description: Spearheaded redesign of PorchLights web application, collaborating directly with the Founder and CEO to develop user personas, information architecture, and mapping out of user experience. Created 15 user interfaces through the development of wireframes, branding guide, and custom illustrations in Figma for a whimsical and sleek end-to-end user experience. Designs resulted in eight cities piloting PorchLights.
 ---
 # Redesigning PorchLights UX/UI
 
@@ -25,8 +25,6 @@ Let's start with ground 0 of PorchLights, the minimum viable product developed b
 - The information architecture is not very intuitive (from headers to content). For example, the Home page shows projects in the community, instead of information on their own project. 
 
 ![Original Design](../assets/images/Screen_Shot_2020-11-25_at_8.55.51_PM.png)
-
-<img src="drawing.jpg" alt="drawing" width="200"/>
 
 ![Original Design](../assets/images/Screen_Shot_2020-11-25_at_8.55.24_PM.png)
 
