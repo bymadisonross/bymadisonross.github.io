@@ -80,8 +80,6 @@ The final designs are in [Figma](https://www.figma.com/file/ef6Jpo1bXkXLy5yFYp9t
 
 At this stage, some of my ideas have been adapted into the application and have made a significant impact. The experience feels much more streamlined as I navigate through the project pages. My designs resulted in eight cities piloting PorchLights urban garden kit.
 
-// number of users or other usage metrics
-
 ![PorchLights V1](../assets/images/Screen_Shot_2020-11-25_at_10.18.09_PM.png)
 
 ![PorchLights V1](../assets/images/Screen_Shot_2020-11-25_at_10.18.24_PM.png)
@@ -95,8 +93,6 @@ At this stage, some of my ideas have been adapted into the application and have 
 "Madison was instrumental in building the PorchLights user experience for our institutional partners and daily users. She spearheaded the user experience and design, crafted a seamless layout in Figma, and worked with us to develop user personas to better understand our user needs. Her designs supported the next iteration of features that led to greater daily user traffic and will continue to guide the vision of the platform! I could not recommend working with Madison enough to meet your design & user experience needs." 
 
 - Rachel Halfaker, CEO and Founder of [PorchLights](https://app.porchlights.org/)
-
-// feedback from users
 
 ## Summary
 
