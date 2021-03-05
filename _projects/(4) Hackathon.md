@@ -23,5 +23,7 @@ I learned how to create a calming and minimal user interface while adding whimsi
 In terms of design, I would  more illustrations and options including a "My Plants" section to view all your plants at once. After building the initial design prototype, the next steps for this application would be to build the front-end and back-end technologies, with AR and database functionality.
 
 ![Green Thumb Initatives](/assets/images/image10.jpg)
-
-![Green Thumb Initiative Video](/assets/images/ScreenRecording_10-21-2018 15-25-09.mp4)
+![Green Thumb Initatives](/assets/images/gt1.png)
+![Green Thumb Initatives](/assets/images/gt2.png)
+![Green Thumb Initatives](/assets/images/gt3.png)
+![Green Thumb Initatives](/assets/images/gt4.png)
