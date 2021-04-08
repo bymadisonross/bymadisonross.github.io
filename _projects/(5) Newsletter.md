@@ -1,6 +1,6 @@
 ---
-name: Monthly Newsletter (TBD)
-tools: [Podcast, Music, Workshops, Speaker]
+name: Newsletter (TBD)
+tools: []
 image: 
 description: 
 external_url: 

@@ -1,6 +1,6 @@
 ---
-name: Support me on Patreon!
-tools: [Support, Exclusive Content]
+name: Join the family on Patreon
+tools: []
 image: 
 description: 
 external_url: https://www.patreon.com/bymadisonross

@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Madison Ross
 description         : >-
-                      I'm creating to connect with others and connecting to create. I am particularly interested in self expression through the performing arts, exploring the human condition (psyche), and crafting compelling stories to develop empathy and build bridges across cultures. On the "Year of the Wild Woman" podcast, I aim to help my listeners tap into their creative and intentional selves, leading a life that sparks joy in their very being. I'm always looking for new ways to play, to rest, and opportunities to grow. My personal interests include music composition, piano, singing/songwriting, electric bass, dance, improv, upcycling my thrifted finds, meditation, and yoga.
+                      Podcast host, musician, and creative finding joy in the everyday moments.
 baseurl             : ""                          # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : bymadisonross.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
