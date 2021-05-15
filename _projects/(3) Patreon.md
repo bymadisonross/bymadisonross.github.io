@@ -1,5 +1,5 @@
 ---
-name: Join the family on Patreon
+name: Patreon
 tools: []
 image: 
 description: 
